@@ -1,0 +1,2401 @@
+TranDate,Account,Dept,SumofAmount,CustomerSegment,Channel,Product,ProductCategory
+01/05/2018,61510,150,-97.47,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,61520,150,-309.06,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,61530,150,-73.29,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,61540,150,-20.38,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,61550,150,-221.70,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,61560,150,-88.41,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,61570,150,-187.69,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,62010,150,-995.66,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,62020,150,-1102.56,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,62030,150,-127.15,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,62099,150,35.47,Loyalty,Wholesale,Stemware,Dining & Entertainment
+01/05/2018,62510,120,-219.10,Loyalty,Wholesale,Table Lamps,Lighting
+01/05/2018,62520,120,-169.33,Loyalty,Wholesale,Table Lamps,Lighting
+01/05/2018,62530,120,-50.83,Loyalty,Wholesale,Table Lamps,Lighting
+01/05/2018,62550,120,-48.94,Loyalty,Wholesale,Table Lamps,Lighting
+01/05/2018,62560,120,-14.73,Loyalty,Wholesale,Table Lamps,Lighting
+01/05/2018,63050,150,-10.09,Loyalty,Wholesale,Table Lamps,Lighting
+01/05/2018,63060,150,-1.32,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,64000,150,292.95,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,64010,150,49.72,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,64020,150,8.25,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65520,110,-8.02,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65540,110,-195.20,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65550,110,-110.75,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65570,110,-1.78,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65590,110,-59.83,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65600,110,-675.65,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65610,110,-210.72,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65620,110,-36.89,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65650,110,-369.34,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65660,110,-191.50,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65690,110,-35.62,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65700,110,-253.59,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65710,110,-679.84,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65730,110,-9.74,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65740,110,-664.37,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65750,110,-774.36,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,65760,110,-4.83,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,66010,130,-20.88,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,66020,130,-430.06,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,66030,130,-4.90,Loyalty,Wholesale,Table Linens,Dining & Entertainment
+01/05/2018,66040,130,-20.72,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66050,130,-66.46,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66070,130,-14.09,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66080,130,-5.57,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66090,130,-11.03,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66100,130,-8.59,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66110,130,-0.92,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66120,130,-1.71,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66130,130,-112.25,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66510,140,-69.49,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66520,140,-57.74,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66530,140,-18.71,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,66550,140,-55.00,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,68050,170,-0.06,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,68060,170,-1.12,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71010,120,1180.40,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71020,120,863.65,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71030,120,241.93,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71050,120,332.87,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71060,120,71.09,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71070,120,-195.93,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71075,120,123.38,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71080,120,11.26,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71160,150,70.32,Loyalty,Wholesale,Vanities,Furniture
+01/05/2018,71170,150,426.65,Loyalty,Wholesale,Vases,Decor
+01/05/2018,71180,150,42.54,Loyalty,Wholesale,Vases,Decor
+01/05/2018,71190,150,66.76,Loyalty,Wholesale,Vases,Decor
+01/05/2018,71200,150,187.47,Loyalty,Wholesale,Vases,Decor
+01/05/2018,71240,150,1375.05,Loyalty,Wholesale,Vases,Decor
+01/05/2018,71299,150,-44.60,Loyalty,Wholesale,Vases,Decor
+01/05/2018,71310,150,6171.86,Loyalty,Wholesale,Vases,Decor
+01/05/2018,71325,150,-767.65,Loyalty,Wholesale,Vases,Decor
+01/05/2018,71550,150,-39.01,Loyalty,Wholesale,Vases,Decor
+01/05/2018,71560,140,-363.75,Loyalty,Wholesale,Vases,Decor
+01/05/2018,72010,110,3631.94,Loyalty,Wholesale,Vases,Decor
+01/05/2018,72020,110,5415.49,Loyalty,Wholesale,Vases,Decor
+01/05/2018,72040,130,752.73,Loyalty,Wholesale,Vases,Decor
+01/05/2018,72050,140,998.25,Loyalty,Wholesale,Vases,Decor
+01/05/2018,72060,150,5002.05,Loyalty,Wholesale,Vases,Decor
+01/05/2018,72070,150,5970.27,Loyalty,Wholesale,Wall Coverings,Decor
+01/05/2018,72090,150,1615.22,Loyalty,Wholesale,Wall Coverings,Decor
+01/05/2018,72100,150,401.63,Loyalty,Wholesale,Wall Coverings,Decor
+01/05/2018,72110,160,3563.22,Loyalty,Wholesale,Wall Coverings,Decor
+01/05/2018,72120,160,4779.29,Loyalty,Wholesale,Wall Coverings,Decor
+01/05/2018,72130,160,3427.83,Loyalty,Wholesale,Wall Coverings,Decor
+01/05/2018,72140,160,1569.06,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,72150,165,3038.80,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,72160,170,2838.82,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,72999,150,-431.81,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73010,110,390.75,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73010,130,37.29,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73010,140,43.56,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73010,150,490.25,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73010,160,571.06,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73010,165,135.11,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73010,170,289.78,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73020,110,224.16,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73020,130,18.81,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73020,140,22.11,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73020,150,320.40,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73020,160,306.24,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73020,165,70.63,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73020,170,55.83,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73030,110,570.44,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73030,150,693.02,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73030,160,504.26,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73030,165,131.63,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73030,170,78.12,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73040,110,219.78,Loyalty,Wholesale,Wall Frames,Decor
+01/05/2018,73040,150,350.46,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,73040,160,166.32,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,73040,165,53.46,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,73050,110,92.46,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,73050,130,10.56,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,73050,140,12.86,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,73050,150,138.57,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,73050,160,136.32,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,73050,165,31.11,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,73050,170,23.91,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,80990,110,3489.38,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81010,110,98.67,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81010,160,9.90,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81020,160,48.91,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81030,160,587.73,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81050,160,905.98,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81080,160,301.42,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81090,160,1319.60,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81100,160,843.00,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81110,160,11.89,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81130,160,98.81,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81150,160,576.15,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81170,160,5.04,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81180,160,193.24,Loyalty,Wholesale,Wardrobes,Decor
+01/05/2018,81190,160,48.72,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81200,160,45.96,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81210,160,642.38,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81220,160,480.93,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81230,160,143.16,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81240,160,109.46,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81260,160,52.49,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81270,160,595.74,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81280,160,210.93,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81350,160,15.55,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,81900,165,394.29,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,82010,130,54.43,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,82020,130,20.99,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,82030,130,33.00,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,82040,130,47.35,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,82040,140,6.32,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,82050,150,493.14,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,82060,170,1511.89,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,83010,160,33.79,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,83010,170,178.38,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,83020,130,121.44,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,83020,160,662.44,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,83020,170,399.44,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,83030,150,551.82,Loyalty,Wholesale,Wine Storage,Dining & Entertainment
+01/05/2018,83050,170,395.14,Loyalty,Wholesale,Wreaths,Decor
+01/05/2018,83060,170,228.40,Loyalty,Wholesale,Wreaths,Decor
+01/05/2018,83070,170,270.16,Loyalty,Wholesale,Wreaths,Decor
+01/05/2018,84020,130,449.74,Loyalty,Wholesale,Wreaths,Decor
+01/05/2018,84020,170,259.66,Loyalty,Wholesale,Wreaths,Decor
+01/05/2018,85010,170,160.64,Loyalty,Wholesale,Wreaths,Decor
+01/05/2018,85510,170,1023.00,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86010,110,342.38,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86010,130,17.16,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86010,150,604.62,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86010,160,121.17,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86010,165,43.30,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86010,170,23.40,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86020,110,8.61,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86020,150,41.49,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86030,110,213.06,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86030,150,32.42,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86040,110,646.80,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86040,150,453.81,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86050,110,354.65,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86050,150,108.68,Non-Loyalty,Online,Accessories,Decor
+01/05/2018,86050,160,130.47,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86080,110,71.18,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86100,110,231.46,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86100,150,874.68,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86100,160,57.26,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86100,170,415.07,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86135,110,844.80,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86140,110,50.35,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86150,110,26.92,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86180,110,368.59,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86180,130,61.87,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86180,140,32.67,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86180,160,686.85,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86200,110,200.71,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86200,160,491.59,Non-Loyalty,Online,Bakeware,Dining & Entertainment
+01/05/2018,86260,120,127.74,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+01/05/2018,86270,150,166.07,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+01/05/2018,86280,150,59.19,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+01/05/2018,86290,150,291.49,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+01/05/2018,86310,150,259.98,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+01/05/2018,86330,150,626.76,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+01/05/2018,86340,150,11.15,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+01/05/2018,86350,150,195.18,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+01/05/2018,86360,150,155.95,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+01/05/2018,86400,170,0.32,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+02/05/2018,61510,150,-97.47,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+02/05/2018,61520,150,-309.06,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+02/05/2018,61530,150,-73.29,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+02/05/2018,61540,150,-20.38,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+02/05/2018,61550,150,-221.70,Non-Loyalty,Online,Bar Tools,Dining & Entertainment
+02/05/2018,61560,150,-88.41,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,61570,150,-187.69,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,62010,150,-995.66,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,62020,150,-1102.56,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,62030,150,-127.15,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,62099,150,35.47,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,62510,120,-219.10,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,62520,120,-169.33,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,62530,120,-50.83,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,62550,120,-48.94,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,62560,120,-14.73,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,63050,150,-10.09,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,63060,150,-1.32,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,64000,150,292.95,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,64010,150,49.72,Non-Loyalty,Online,Bathroom Furniture,Furniture
+02/05/2018,64020,150,8.25,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65520,110,-8.02,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65540,110,-195.20,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65550,110,-110.75,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65570,110,-1.78,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65590,110,-59.83,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65600,110,-675.65,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65610,110,-210.72,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65620,110,-36.89,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65650,110,-369.34,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65660,110,-191.50,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65690,110,-35.62,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65700,110,-253.59,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65710,110,-679.84,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65730,110,-9.74,Non-Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+02/05/2018,65740,110,-664.37,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,65750,110,-774.36,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,65760,110,-4.83,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66010,130,-20.88,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66020,130,-430.06,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66030,130,-4.90,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66040,130,-20.72,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66050,130,-66.46,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66070,130,-14.09,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66080,130,-5.57,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66090,130,-11.03,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66100,130,-8.59,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66110,130,-0.92,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66120,130,-1.71,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66130,130,-112.25,Non-Loyalty,Online,Bedroom Furniture,Furniture
+02/05/2018,66510,140,-69.49,Non-Loyalty,Online,Home Fragrances,Decor
+02/05/2018,66520,140,-57.74,Non-Loyalty,Online,Home Fragrances,Decor
+02/05/2018,66530,140,-18.71,Non-Loyalty,Online,Home Fragrances,Decor
+02/05/2018,66550,140,-55.00,Non-Loyalty,Online,Home Fragrances,Decor
+02/05/2018,68050,170,-0.06,Non-Loyalty,Online,Home Fragrances,Decor
+02/05/2018,68060,170,-1.12,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,61510,150,-129.95,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,61520,150,-412.08,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,61530,150,-97.71,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,61540,150,-27.18,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,61550,150,-295.60,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,61560,150,-117.88,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,61570,150,-250.26,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,62010,150,-1327.54,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,62020,150,-1470.08,Non-Loyalty,Online,Home Fragrances,Decor
+03/05/2018,62030,150,-169.52,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,62099,150,47.29,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,62510,120,-292.14,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,62520,120,-225.77,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,62530,120,-67.78,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,62550,120,-65.26,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,62560,120,-19.64,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,63050,150,-13.46,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,63060,150,-1.76,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,64000,150,390.60,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,64010,150,66.29,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,64020,150,11.00,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,65520,110,-10.69,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,65540,110,-260.27,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,65550,110,-147.67,Non-Loyalty,Online,Bean Bags,Pillows & Cushions
+03/05/2018,65570,110,-2.38,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65590,110,-79.77,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65600,110,-900.86,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65610,110,-280.96,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65620,110,-49.18,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65650,110,-492.45,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65660,110,-255.33,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65690,110,-47.49,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65700,110,-338.12,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65710,110,-906.46,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65730,110,-13.00,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65740,110,-885.83,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65750,110,-1032.49,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,65760,110,-6.44,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,66010,130,-27.85,Non-Loyalty,Online,Clocks,Decor
+03/05/2018,66020,130,-573.42,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66030,130,-6.53,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66040,130,-27.62,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66050,130,-88.61,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66070,130,-18.79,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66080,130,-7.43,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66090,130,-14.70,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66100,130,-11.45,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66110,130,-1.23,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66120,130,-2.28,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66130,130,-149.66,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66510,140,-92.65,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66520,140,-76.98,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66530,140,-24.95,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,66550,140,-73.34,Non-Loyalty,Online,Pillows,Pillows & Cushions
+03/05/2018,68050,170,-0.09,Non-Loyalty,Online,Collectibles,Decor
+03/05/2018,68060,170,-1.49,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,61510,150,-106.42,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,61520,150,-300.37,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,61530,150,-85.81,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,61540,150,-47.11,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,61550,150,-209.33,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,61560,150,-121.61,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,61570,150,-154.12,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,62010,150,-960.46,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,62020,150,-932.60,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,62030,150,-218.05,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,62099,150,33.16,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,62510,120,-507.25,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,62520,120,-149.63,Non-Loyalty,Online,Collectibles,Decor
+04/05/2018,62530,120,-98.52,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,62550,120,-44.61,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,62560,120,-9.77,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,63050,150,-66.21,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,63060,150,-0.85,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,64000,150,217.13,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,64010,150,31.82,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,64020,150,5.58,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,65520,110,-24.77,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,65540,110,-476.24,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,65550,110,-653.02,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,65570,110,-5.76,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,65590,110,-51.54,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,65600,110,-253.90,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,65610,110,-169.99,Non-Loyalty,Online,Cookware,Dining & Entertainment
+04/05/2018,65620,110,-172.92,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,65650,110,-255.47,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,65660,110,-324.40,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,65690,110,-27.03,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,65700,110,-278.34,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,65710,110,-492.38,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,65730,110,1.80,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,65740,110,-438.20,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,65750,110,-548.79,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,65760,110,-3.12,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,66010,130,-59.95,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,66020,130,-479.77,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,66030,130,-6.62,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,66040,130,-38.39,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,66050,130,-45.07,Non-Loyalty,Online,Dining Furniture,Furniture
+04/05/2018,66070,130,-10.74,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66080,130,-2.88,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66090,130,-33.70,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66100,130,-5.63,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66110,130,-0.59,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66120,130,-8.74,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66130,130,-70.66,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66510,140,-69.86,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66520,140,-25.46,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66530,140,-36.29,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+04/05/2018,66550,140,-301.02,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+05/05/2018,61510,150,-86.47,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+05/05/2018,61520,150,-244.05,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+05/05/2018,61530,150,-69.72,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+05/05/2018,61540,150,-38.28,Non-Loyalty,Online,Dinnerware,Dining & Entertainment
+05/05/2018,61550,150,-170.08,Non-Loyalty,Online,Festive,Decor
+05/05/2018,61560,150,-98.81,Non-Loyalty,Online,Festive,Decor
+05/05/2018,61570,150,-125.22,Non-Loyalty,Online,Festive,Decor
+05/05/2018,62010,150,-780.37,Non-Loyalty,Online,Festive,Decor
+05/05/2018,62020,150,-757.74,Non-Loyalty,Online,Festive,Decor
+05/05/2018,62030,150,-177.17,Non-Loyalty,Online,Festive,Decor
+05/05/2018,62099,150,26.94,Non-Loyalty,Online,Floor Lamps,Lighting
+05/05/2018,62510,120,-412.14,Non-Loyalty,Online,Floor Lamps,Lighting
+05/05/2018,62520,120,-121.57,Non-Loyalty,Online,Floor Lamps,Lighting
+05/05/2018,62530,120,-80.05,Non-Loyalty,Online,Floral,Decor
+05/05/2018,62550,120,-36.25,Non-Loyalty,Online,Floral,Decor
+05/05/2018,62560,120,-7.94,Non-Loyalty,Online,Floral,Decor
+05/05/2018,63050,150,-53.80,Non-Loyalty,Online,Floral,Decor
+05/05/2018,63060,150,-0.69,Non-Loyalty,Online,Floral,Decor
+05/05/2018,64000,150,176.42,Non-Loyalty,Online,Floral,Decor
+05/05/2018,64010,150,25.86,Non-Loyalty,Online,Floral,Decor
+05/05/2018,64020,150,4.53,Non-Loyalty,Online,Floral,Decor
+05/05/2018,65520,110,-20.12,Non-Loyalty,Online,Floral,Decor
+05/05/2018,65540,110,-386.94,Non-Loyalty,Online,Floral,Decor
+05/05/2018,65550,110,-530.58,Non-Loyalty,Online,Floral,Decor
+05/05/2018,65570,110,-4.68,Non-Loyalty,Online,Floral,Decor
+05/05/2018,65590,110,-41.87,Non-Loyalty,Online,Floral,Decor
+05/05/2018,65600,110,-206.29,Non-Loyalty,Online,Floral,Decor
+05/05/2018,65610,110,-138.12,Non-Loyalty,Online,Floral,Decor
+05/05/2018,65620,110,-140.50,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,65650,110,-207.57,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,65660,110,-263.58,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,65690,110,-21.96,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,65700,110,-226.15,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,65710,110,-400.06,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,65730,110,1.46,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,65740,110,-356.04,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,65750,110,-445.90,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,65760,110,-2.53,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,66010,130,-48.71,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,66020,130,-389.81,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,66030,130,-5.38,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,66040,130,-31.19,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,66050,130,-36.62,Non-Loyalty,Online,Furniture Cushions,Pillows & Cushions
+05/05/2018,66070,130,-8.72,Non-Loyalty,Online,Blankets,Pillows & Cushions
+05/05/2018,66080,130,-2.34,Non-Loyalty,Online,Blankets,Pillows & Cushions
+05/05/2018,66090,130,-27.38,Non-Loyalty,Online,Blankets,Pillows & Cushions
+05/05/2018,66100,130,-4.58,Non-Loyalty,Online,Blankets,Pillows & Cushions
+05/05/2018,66110,130,-0.48,Non-Loyalty,Online,Blankets,Pillows & Cushions
+05/05/2018,66120,130,-7.10,Non-Loyalty,Online,Blankets,Pillows & Cushions
+05/05/2018,66130,130,-57.41,Non-Loyalty,Online,Mirrors,Decor
+05/05/2018,66510,140,-56.76,Non-Loyalty,Online,Mirrors,Decor
+05/05/2018,66520,140,-20.69,Non-Loyalty,Online,Mirrors,Decor
+05/05/2018,66530,140,-29.48,Non-Loyalty,Online,Mirrors,Decor
+05/05/2018,66550,140,-244.58,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,61510,150,-79.81,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,61520,150,-225.28,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,61530,150,-64.36,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,61540,150,-35.34,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,61550,150,-157.00,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,61560,150,-91.21,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,61570,150,-115.59,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,62010,150,-720.34,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,62020,150,-699.45,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,62030,150,-163.54,Non-Loyalty,Online,Mirrors,Decor
+06/05/2018,62099,150,24.87,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,62510,120,-380.44,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,62520,120,-112.22,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,62530,120,-73.89,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,62550,120,-33.46,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,62560,120,-7.33,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,63050,150,-49.66,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,63060,150,-0.64,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,64000,150,162.85,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,64010,150,23.87,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,64020,150,4.18,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,65520,110,-18.58,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,65540,110,-357.18,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,65550,110,-489.76,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,65570,110,-4.32,Non-Loyalty,Online,Ornaments,Decor
+06/05/2018,65590,110,-38.65,Non-Loyalty,Online,Outdoor Decor,Decor
+06/05/2018,65600,110,-190.43,Non-Loyalty,Online,Outdoor Decor,Decor
+06/05/2018,65610,110,-127.49,Non-Loyalty,Online,Outdoor Decor,Decor
+06/05/2018,65620,110,-129.69,Non-Loyalty,Online,Outdoor Decor,Decor
+06/05/2018,65650,110,-191.60,Non-Loyalty,Online,Outdoor Decor,Decor
+06/05/2018,65660,110,-243.30,Non-Loyalty,Online,Outdoor Decor,Decor
+06/05/2018,65690,110,-20.27,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,65700,110,-208.75,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,65710,110,-369.29,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,65730,110,1.35,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,65740,110,-328.65,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,65750,110,-411.60,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,65760,110,-2.34,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,66010,130,-44.97,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,66020,130,-359.83,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,66030,130,-4.97,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,66040,130,-28.79,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,66050,130,-33.80,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,66070,130,-8.05,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,66080,130,-2.16,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,66090,130,-25.27,Non-Loyalty,Online,Outdoor Furniture,Furniture
+06/05/2018,66100,130,-4.22,Non-Loyalty,Online,Pendants,Lighting
+06/05/2018,66110,130,-0.45,Non-Loyalty,Online,Pendants,Lighting
+06/05/2018,66120,130,-6.56,Non-Loyalty,Online,Pendants,Lighting
+06/05/2018,66130,130,-53.00,Non-Loyalty,Online,Candles,Decor
+06/05/2018,66510,140,-52.40,Non-Loyalty,Online,Candles,Decor
+06/05/2018,66520,140,-19.09,Non-Loyalty,Online,Candles,Decor
+06/05/2018,66530,140,-27.22,Non-Loyalty,Online,Candles,Decor
+06/05/2018,66550,140,-225.76,Non-Loyalty,Online,Candles,Decor
+07/05/2018,61510,150,-73.16,Non-Loyalty,Online,Candles,Decor
+07/05/2018,61520,150,-206.51,Non-Loyalty,Online,Candles,Decor
+07/05/2018,61530,150,-58.99,Non-Loyalty,Online,Candles,Decor
+07/05/2018,61540,150,-32.39,Non-Loyalty,Online,Candles,Decor
+07/05/2018,61550,150,-143.92,Non-Loyalty,Online,Candles,Decor
+07/05/2018,61560,150,-83.61,Non-Loyalty,Online,Candles,Decor
+07/05/2018,61570,150,-105.96,Non-Loyalty,Online,Candles,Decor
+07/05/2018,62010,150,-660.31,Non-Loyalty,Online,Candles,Decor
+07/05/2018,62020,150,-641.16,Non-Loyalty,Online,Candles,Decor
+07/05/2018,62030,150,-149.91,Non-Loyalty,Online,Candles,Decor
+07/05/2018,62099,150,22.80,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,62510,120,-348.74,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,62520,120,-102.87,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,62530,120,-67.73,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,62550,120,-30.67,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,62560,120,-6.72,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,63050,150,-45.52,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,63060,150,-0.59,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,64000,150,149.28,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,64010,150,21.88,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,64020,150,3.84,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,65520,110,-17.03,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,65540,110,-327.41,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,65550,110,-448.95,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,65570,110,-3.96,Non-Loyalty,Online,Platters,Dining & Entertainment
+07/05/2018,65590,110,-35.43,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65600,110,-174.56,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65610,110,-116.87,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65620,110,-118.88,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65650,110,-175.63,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65660,110,-223.03,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65690,110,-18.58,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65700,110,-191.36,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65710,110,-338.51,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65730,110,1.24,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65740,110,-301.26,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65750,110,-377.30,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,65760,110,-2.15,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,66010,130,-41.22,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,66020,130,-329.84,Non-Loyalty,Online,Rugs,Decor
+07/05/2018,66030,130,-4.55,Non-Loyalty,Online,Sculptures,Decor
+07/05/2018,66040,130,-26.39,Non-Loyalty,Online,Sculptures,Decor
+07/05/2018,66050,130,-30.99,Non-Loyalty,Online,Sculptures,Decor
+07/05/2018,66070,130,-7.38,Non-Loyalty,Online,Sculptures,Decor
+07/05/2018,66080,130,-1.98,Non-Loyalty,Online,Sculptures,Decor
+07/05/2018,66090,130,-23.17,Non-Loyalty,Online,Sculptures,Decor
+07/05/2018,66100,130,-3.87,Non-Loyalty,Online,Serveware,Dining & Entertainment
+07/05/2018,66110,130,-0.41,Non-Loyalty,Online,Serveware,Dining & Entertainment
+07/05/2018,66120,130,-6.01,Non-Loyalty,Online,Serveware,Dining & Entertainment
+07/05/2018,66130,130,-48.58,Non-Loyalty,Online,Serveware,Dining & Entertainment
+07/05/2018,66510,140,-48.03,Non-Loyalty,Online,Serveware,Dining & Entertainment
+07/05/2018,66520,140,-17.50,Non-Loyalty,Online,Serveware,Dining & Entertainment
+07/05/2018,66530,140,-24.95,Non-Loyalty,Online,Serveware,Dining & Entertainment
+07/05/2018,66550,140,-206.95,Non-Loyalty,Online,Serveware,Dining & Entertainment
+08/05/2018,61510,150,-79.81,Non-Loyalty,Online,Serveware,Dining & Entertainment
+08/05/2018,61520,150,-225.28,Non-Loyalty,Online,Serveware,Dining & Entertainment
+08/05/2018,61530,150,-64.36,Non-Loyalty,Online,Serveware,Dining & Entertainment
+08/05/2018,61540,150,-35.34,Non-Loyalty,Online,Serveware,Dining & Entertainment
+08/05/2018,61550,150,-157.00,Non-Loyalty,Online,Serveware,Dining & Entertainment
+08/05/2018,61560,150,-91.21,Non-Loyalty,Online,Serveware,Dining & Entertainment
+08/05/2018,61570,150,-115.59,Non-Loyalty,Online,Serveware,Dining & Entertainment
+08/05/2018,62010,150,-720.34,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,62020,150,-699.45,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,62030,150,-163.54,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,62099,150,24.87,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,62510,120,-380.44,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,62520,120,-112.22,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,62530,120,-73.89,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,62550,120,-33.46,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,62560,120,-7.33,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,63050,150,-49.66,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,63060,150,-0.64,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,64000,150,162.85,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,64010,150,23.87,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,64020,150,4.18,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,65520,110,-18.58,Non-Loyalty,Online,Stemware,Dining & Entertainment
+08/05/2018,65540,110,-357.18,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65550,110,-489.76,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65570,110,-4.32,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65590,110,-38.65,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65600,110,-190.43,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65610,110,-127.49,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65620,110,-129.69,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65650,110,-191.60,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65660,110,-243.30,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65690,110,-20.27,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65700,110,-208.75,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65710,110,-369.29,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65730,110,1.35,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65740,110,-328.65,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65750,110,-411.60,Non-Loyalty,Online,Table Linens,Dining & Entertainment
+08/05/2018,65760,110,-2.34,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66010,130,-44.97,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66020,130,-359.83,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66030,130,-4.97,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66040,130,-28.79,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66050,130,-33.80,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66070,130,-8.05,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66080,130,-2.16,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66090,130,-25.27,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66100,130,-4.22,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66110,130,-0.45,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66120,130,-6.56,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66130,130,-53.00,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66510,140,-52.40,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66520,140,-19.09,Non-Loyalty,Online,Vanities,Furniture
+08/05/2018,66530,140,-27.22,Non-Loyalty,Online,Vases,Decor
+08/05/2018,66550,140,-225.76,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71010,120,2289.59,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71020,120,635.65,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71030,120,404.83,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71050,120,147.80,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71060,120,42.67,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71070,120,-140.84,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71075,120,97.80,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71080,120,26.28,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71160,150,189.57,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71170,150,594.64,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71180,150,341.73,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71190,150,160.21,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71200,150,199.71,Non-Loyalty,Online,Vases,Decor
+08/05/2018,71240,150,1168.35,Non-Loyalty,Online,Wall Coverings,Decor
+08/05/2018,71299,150,-17.71,Non-Loyalty,Online,Wall Coverings,Decor
+08/05/2018,71310,150,4314.76,Non-Loyalty,Online,Wall Coverings,Decor
+08/05/2018,71325,150,-477.84,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,71550,150,601.22,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,71560,140,47.32,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,71560,150,-7.45,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72010,110,1960.19,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72020,110,3212.77,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72030,120,-1.46,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72040,130,1076.22,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72050,140,2234.63,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72060,150,3685.71,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72070,150,3940.52,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72090,150,906.57,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72100,150,539.63,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72110,160,1882.26,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72120,160,2828.68,Non-Loyalty,Online,Wall Frames,Decor
+08/05/2018,72130,160,2981.64,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,72140,160,797.75,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,72150,165,1763.19,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,72160,170,1621.36,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,72999,150,-268.79,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73010,110,179.76,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73010,130,53.10,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73010,140,36.18,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73010,150,346.59,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73010,160,311.73,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73010,165,69.61,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73010,170,191.64,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73020,110,110.46,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73020,130,27.18,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73020,140,18.36,Non-Loyalty,Online,Wardrobes,Decor
+08/05/2018,73020,150,215.78,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73020,160,165.38,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73020,165,36.53,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73020,170,29.40,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73030,110,260.72,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73030,150,401.85,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73030,160,258.36,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73030,165,69.45,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73030,170,41.76,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73040,110,119.88,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73040,150,183.60,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73040,160,90.72,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73040,165,29.16,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73050,110,46.00,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73050,130,15.12,Non-Loyalty,Online,Wine Storage,Dining & Entertainment
+08/05/2018,73050,140,10.83,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,73050,150,95.68,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,73050,160,81.87,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,73050,165,16.28,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,73050,170,12.96,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,80990,110,1379.53,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,81050,160,679.82,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,81060,160,1494.75,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,81090,160,1463.16,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,81100,160,194.26,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,81110,160,637.57,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,81140,160,68.33,Non-Loyalty,Online,Wreaths,Decor
+08/05/2018,81170,160,32.26,Loyalty,Online,Accessories,Decor
+08/05/2018,81180,160,39.37,Loyalty,Online,Accessories,Decor
+08/05/2018,81190,160,8.60,Loyalty,Online,Accessories,Decor
+08/05/2018,81200,160,8.23,Loyalty,Online,Accessories,Decor
+08/05/2018,81210,160,136.62,Loyalty,Online,Accessories,Decor
+08/05/2018,81220,160,640.77,Loyalty,Online,Accessories,Decor
+08/05/2018,81230,160,76.48,Loyalty,Online,Accessories,Decor
+08/05/2018,81250,160,64.18,Loyalty,Online,Accessories,Decor
+08/05/2018,81260,160,42.30,Loyalty,Online,Accessories,Decor
+08/05/2018,81270,160,178.36,Loyalty,Online,Accessories,Decor
+08/05/2018,81350,160,8.48,Loyalty,Online,Accessories,Decor
+08/05/2018,81900,165,285.88,Loyalty,Online,Accessories,Decor
+08/05/2018,82010,130,920.42,Loyalty,Online,Accessories,Decor
+08/05/2018,82030,130,7.68,Loyalty,Online,Accessories,Decor
+08/05/2018,82040,130,53.40,Loyalty,Online,Accessories,Decor
+08/05/2018,82040,140,113.28,Loyalty,Online,Accessories,Decor
+08/05/2018,82050,150,22.95,Loyalty,Online,Accessories,Decor
+08/05/2018,82060,170,151.02,Loyalty,Online,Accessories,Decor
+08/05/2018,82070,150,76.24,Loyalty,Online,Accessories,Decor
+08/05/2018,83010,170,102.20,Loyalty,Online,Accessories,Decor
+08/05/2018,83020,130,66.24,Loyalty,Online,Accessories,Decor
+08/05/2018,83020,160,1338.41,Loyalty,Online,Accessories,Decor
+08/05/2018,83020,170,372.58,Loyalty,Online,Accessories,Decor
+08/05/2018,83030,150,254.15,Loyalty,Online,Accessories,Decor
+08/05/2018,83050,170,218.29,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,83060,170,4.59,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,83070,170,120.83,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,84020,130,245.31,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,84020,170,144.87,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,85010,170,87.62,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,85510,170,558.00,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86010,110,215.07,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86010,130,28.80,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86010,150,378.29,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86010,160,86.22,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86010,165,27.07,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86010,170,21.07,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86020,110,243.83,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86020,150,28.59,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86030,110,124.61,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86040,110,50.48,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86040,150,13.98,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86050,110,98.65,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86050,150,59.18,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86050,160,122.25,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86090,160,73.62,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86100,110,306.59,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86100,120,14.34,Loyalty,Online,Bakeware,Dining & Entertainment
+08/05/2018,86100,150,248.40,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86100,160,1.53,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86100,170,277.93,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86130,110,326.70,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86140,110,0.36,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86150,110,131.81,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86180,130,32.73,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86180,140,138.14,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86200,110,1115.31,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86200,150,26.19,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86200,160,218.01,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86260,120,35.24,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86270,150,152.11,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86280,150,48.15,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86290,150,218.08,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86310,150,385.46,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86330,150,596.58,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86350,150,106.65,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86360,150,41.32,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86400,170,-1.53,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86450,170,685.02,Loyalty,Online,Bar Tools,Dining & Entertainment
+08/05/2018,86830,170,21.09,Loyalty,Online,Bar Tools,Dining & Entertainment
+09/05/2018,61510,150,-99.77,Loyalty,Online,Bar Tools,Dining & Entertainment
+09/05/2018,61520,150,-281.60,Loyalty,Online,Bar Tools,Dining & Entertainment
+09/05/2018,61530,150,-80.44,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,61540,150,-44.17,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,61550,150,-196.25,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,61560,150,-114.01,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,61570,150,-144.48,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,62010,150,-900.43,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,62020,150,-874.31,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,62030,150,-204.42,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,62099,150,31.09,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,62510,120,-475.55,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,62520,120,-140.27,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,62530,120,-92.36,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,62550,120,-41.82,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,62560,120,-9.16,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,63050,150,-62.07,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,63060,150,-0.80,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,64000,150,203.56,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,64010,150,29.83,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,64020,150,5.23,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,65520,110,-23.22,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,65540,110,-446.47,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,65550,110,-612.20,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,65570,110,-5.40,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,65590,110,-48.32,Loyalty,Online,Bathroom Furniture,Furniture
+09/05/2018,65600,110,-238.03,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65610,110,-159.37,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65620,110,-162.11,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65650,110,-239.50,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65660,110,-304.13,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65690,110,-25.34,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65700,110,-260.94,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65710,110,-461.61,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65730,110,1.69,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65740,110,-410.82,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65750,110,-514.49,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,65760,110,-2.93,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66010,130,-56.21,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66020,130,-449.78,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66030,130,-6.21,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66040,130,-35.99,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66050,130,-42.25,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66070,130,-10.06,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66080,130,-2.70,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66090,130,-31.59,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66100,130,-5.28,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66110,130,-0.56,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66120,130,-8.19,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66130,130,-66.24,Loyalty,Online,Cocktail Glasses,Dining & Entertainment
+09/05/2018,66510,140,-65.50,Loyalty,Online,Bedroom Furniture,Furniture
+09/05/2018,66520,140,-23.87,Loyalty,Online,Bedroom Furniture,Furniture
+09/05/2018,66530,140,-34.02,Loyalty,Online,Bedroom Furniture,Furniture
+09/05/2018,66550,140,-282.20,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,61510,150,-139.68,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,61520,150,-394.24,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,61530,150,-112.62,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,61540,150,-61.84,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,61550,150,-274.75,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,61560,150,-159.62,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,61570,150,-202.28,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,62010,150,-1260.60,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,62020,150,-1224.04,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,62030,150,-286.19,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,62099,150,43.52,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,62510,120,-665.77,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,62520,120,-196.38,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,62530,120,-129.31,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,62550,120,-58.55,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,62560,120,-12.83,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,63050,150,-86.90,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,63060,150,-1.12,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,64000,150,284.99,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,64010,150,41.77,Loyalty,Online,Bedroom Furniture,Furniture
+10/05/2018,64020,150,7.32,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65520,110,-32.51,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65540,110,-625.06,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65550,110,-857.08,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65570,110,-7.56,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65590,110,-67.64,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65600,110,-333.24,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65610,110,-223.12,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65620,110,-226.95,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65650,110,-335.30,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65660,110,-425.78,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65690,110,-35.48,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65700,110,-365.32,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65710,110,-646.25,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65730,110,2.36,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65740,110,-575.14,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65750,110,-720.29,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,65760,110,-4.10,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,66010,130,-78.69,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,66020,130,-629.69,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,66030,130,-8.69,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,66040,130,-50.39,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,66050,130,-59.16,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,66070,130,-14.09,Loyalty,Online,Home Fragrances,Decor
+10/05/2018,66080,130,-3.78,Loyalty,Online,Bean Bags,Pillows & Cushions
+10/05/2018,66090,130,-44.23,Loyalty,Online,Bean Bags,Pillows & Cushions
+10/05/2018,66100,130,-7.39,Loyalty,Online,Bean Bags,Pillows & Cushions
+10/05/2018,66110,130,-0.78,Loyalty,Online,Bean Bags,Pillows & Cushions
+10/05/2018,66120,130,-11.47,Loyalty,Online,Bean Bags,Pillows & Cushions
+10/05/2018,66130,130,-92.74,Loyalty,Online,Bean Bags,Pillows & Cushions
+10/05/2018,66510,140,-91.70,Loyalty,Online,Bean Bags,Pillows & Cushions
+10/05/2018,66520,140,-33.42,Loyalty,Online,Bean Bags,Pillows & Cushions
+10/05/2018,66530,140,-47.63,Loyalty,Online,Bean Bags,Pillows & Cushions
+10/05/2018,66550,140,-395.09,Loyalty,Online,Bean Bags,Pillows & Cushions
+11/05/2018,61510,150,-130.07,Loyalty,Online,Bean Bags,Pillows & Cushions
+11/05/2018,61520,150,-367.12,Loyalty,Online,Bean Bags,Pillows & Cushions
+11/05/2018,61530,150,-104.88,Loyalty,Online,Bean Bags,Pillows & Cushions
+11/05/2018,61540,150,-57.58,Loyalty,Online,Bean Bags,Pillows & Cushions
+11/05/2018,61550,150,-255.85,Loyalty,Online,Bean Bags,Pillows & Cushions
+11/05/2018,61560,150,-148.64,Loyalty,Online,Bean Bags,Pillows & Cushions
+11/05/2018,61570,150,-188.36,Loyalty,Online,Bean Bags,Pillows & Cushions
+11/05/2018,62010,150,-1173.89,Loyalty,Online,Bean Bags,Pillows & Cushions
+11/05/2018,62020,150,-1139.84,Loyalty,Online,Clocks,Decor
+11/05/2018,62030,150,-266.51,Loyalty,Online,Clocks,Decor
+11/05/2018,62099,150,40.53,Loyalty,Online,Clocks,Decor
+11/05/2018,62510,120,-619.98,Loyalty,Online,Clocks,Decor
+11/05/2018,62520,120,-182.88,Loyalty,Online,Clocks,Decor
+11/05/2018,62530,120,-120.41,Loyalty,Online,Clocks,Decor
+11/05/2018,62550,120,-54.52,Loyalty,Online,Clocks,Decor
+11/05/2018,62560,120,-11.94,Loyalty,Online,Clocks,Decor
+11/05/2018,63050,150,-80.92,Loyalty,Online,Clocks,Decor
+11/05/2018,63060,150,-1.04,Loyalty,Online,Clocks,Decor
+11/05/2018,64000,150,265.38,Loyalty,Online,Clocks,Decor
+11/05/2018,64010,150,38.89,Loyalty,Online,Clocks,Decor
+11/05/2018,64020,150,6.82,Loyalty,Online,Clocks,Decor
+11/05/2018,65520,110,-30.27,Loyalty,Online,Clocks,Decor
+11/05/2018,65540,110,-582.07,Loyalty,Online,Clocks,Decor
+11/05/2018,65550,110,-798.13,Loyalty,Online,Clocks,Decor
+11/05/2018,65570,110,-7.04,Loyalty,Online,Clocks,Decor
+11/05/2018,65590,110,-62.99,Loyalty,Online,Clocks,Decor
+11/05/2018,65600,110,-310.32,Loyalty,Online,Clocks,Decor
+11/05/2018,65610,110,-207.77,Loyalty,Online,Clocks,Decor
+11/05/2018,65620,110,-211.34,Loyalty,Online,Clocks,Decor
+11/05/2018,65650,110,-312.24,Loyalty,Online,Clocks,Decor
+11/05/2018,65660,110,-396.49,Loyalty,Online,Clocks,Decor
+11/05/2018,65690,110,-33.04,Loyalty,Online,Clocks,Decor
+11/05/2018,65700,110,-340.19,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,65710,110,-601.80,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,65730,110,2.20,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,65740,110,-535.58,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,65750,110,-670.75,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,65760,110,-3.81,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66010,130,-73.28,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66020,130,-586.38,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66030,130,-8.10,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66040,130,-46.92,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66050,130,-55.09,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66070,130,-13.12,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66080,130,-3.52,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66090,130,-41.18,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66100,130,-6.88,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66110,130,-0.73,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66120,130,-10.68,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66130,130,-86.36,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66510,140,-85.39,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66520,140,-31.12,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66530,140,-44.35,Loyalty,Online,Pillows,Pillows & Cushions
+11/05/2018,66550,140,-367.91,Loyalty,Online,Pillows,Pillows & Cushions
+12/05/2018,61510,150,-105.68,Loyalty,Online,Pillows,Pillows & Cushions
+12/05/2018,61520,150,-298.28,Loyalty,Online,Pillows,Pillows & Cushions
+12/05/2018,61530,150,-85.21,Loyalty,Online,Collectibles,Decor
+12/05/2018,61540,150,-46.79,Loyalty,Online,Collectibles,Decor
+12/05/2018,61550,150,-207.88,Loyalty,Online,Collectibles,Decor
+12/05/2018,61560,150,-120.77,Loyalty,Online,Collectibles,Decor
+12/05/2018,61570,150,-153.05,Loyalty,Online,Collectibles,Decor
+12/05/2018,62010,150,-953.79,Loyalty,Online,Collectibles,Decor
+12/05/2018,62020,150,-926.12,Loyalty,Online,Collectibles,Decor
+12/05/2018,62030,150,-216.54,Loyalty,Online,Collectibles,Decor
+12/05/2018,62099,150,32.93,Loyalty,Online,Collectibles,Decor
+12/05/2018,62510,120,-503.73,Loyalty,Online,Collectibles,Decor
+12/05/2018,62520,120,-148.59,Loyalty,Online,Collectibles,Decor
+12/05/2018,62530,120,-97.84,Loyalty,Online,Collectibles,Decor
+12/05/2018,62550,120,-44.30,Loyalty,Online,Collectibles,Decor
+12/05/2018,62560,120,-9.70,Loyalty,Online,Collectibles,Decor
+12/05/2018,63050,150,-65.75,Loyalty,Online,Collectibles,Decor
+12/05/2018,63060,150,-0.85,Loyalty,Online,Collectibles,Decor
+12/05/2018,64000,150,215.62,Loyalty,Online,Collectibles,Decor
+12/05/2018,64010,150,31.60,Loyalty,Online,Collectibles,Decor
+12/05/2018,64020,150,5.54,Loyalty,Online,Collectibles,Decor
+12/05/2018,65520,110,-24.60,Loyalty,Online,Collectibles,Decor
+12/05/2018,65540,110,-472.93,Loyalty,Online,Collectibles,Decor
+12/05/2018,65550,110,-648.48,Loyalty,Online,Collectibles,Decor
+12/05/2018,65570,110,-5.72,Loyalty,Online,Collectibles,Decor
+12/05/2018,65590,110,-51.18,Loyalty,Online,Collectibles,Decor
+12/05/2018,65600,110,-252.14,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65610,110,-168.81,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65620,110,-171.72,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65650,110,-253.69,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65660,110,-322.15,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65690,110,-26.84,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65700,110,-276.40,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65710,110,-488.96,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65730,110,1.79,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65740,110,-435.16,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65750,110,-544.98,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,65760,110,-3.10,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66010,130,-59.54,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66020,130,-476.44,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66030,130,-6.58,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66040,130,-38.12,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66050,130,-44.76,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66070,130,-10.66,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66080,130,-2.86,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66090,130,-33.46,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66100,130,-5.59,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66110,130,-0.59,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66120,130,-8.68,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66130,130,-70.17,Loyalty,Online,Cookware,Dining & Entertainment
+12/05/2018,66510,140,-69.38,Loyalty,Online,Dining Furniture,Furniture
+12/05/2018,66520,140,-25.28,Loyalty,Online,Dining Furniture,Furniture
+12/05/2018,66530,140,-36.04,Loyalty,Online,Dining Furniture,Furniture
+12/05/2018,66550,140,-298.93,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,61510,150,-97.55,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,61520,150,-275.34,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,61530,150,-78.66,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,61540,150,-43.19,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,61550,150,-191.89,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,61560,150,-111.48,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,61570,150,-141.27,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,62010,150,-880.42,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,62020,150,-854.88,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,62030,150,-199.88,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,62099,150,30.40,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,62510,120,-464.98,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,62520,120,-137.16,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,62530,120,-90.31,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,62550,120,-40.89,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,62560,120,-8.96,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,63050,150,-60.69,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,63060,150,-0.78,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,64000,150,199.04,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,64010,150,29.17,Loyalty,Online,Dining Furniture,Furniture
+13/05/2018,64020,150,5.11,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65520,110,-22.70,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65540,110,-436.55,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65550,110,-598.60,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65570,110,-5.28,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65590,110,-47.24,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65600,110,-232.74,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65610,110,-155.83,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65620,110,-158.51,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65650,110,-234.18,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65660,110,-297.37,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65690,110,-24.78,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65700,110,-255.14,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65710,110,-451.35,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65730,110,1.65,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65740,110,-401.68,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65750,110,-503.06,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,65760,110,-2.86,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,66010,130,-54.96,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,66020,130,-439.79,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,66030,130,-6.07,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,66040,130,-35.19,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,66050,130,-41.31,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,66070,130,-9.84,Loyalty,Online,Dinnerware,Dining & Entertainment
+13/05/2018,66080,130,-2.64,Loyalty,Online,Festive,Decor
+13/05/2018,66090,130,-30.89,Loyalty,Online,Festive,Decor
+13/05/2018,66100,130,-5.16,Loyalty,Online,Festive,Decor
+13/05/2018,66110,130,-0.55,Loyalty,Online,Festive,Decor
+13/05/2018,66120,130,-8.01,Loyalty,Online,Festive,Decor
+13/05/2018,66130,130,-64.77,Loyalty,Online,Festive,Decor
+13/05/2018,66510,140,-64.04,Loyalty,Online,Floor Lamps,Lighting
+13/05/2018,66520,140,-23.34,Loyalty,Online,Floor Lamps,Lighting
+13/05/2018,66530,140,-33.26,Loyalty,Online,Floor Lamps,Lighting
+13/05/2018,66550,140,-275.93,Loyalty,Online,Floor Lamps,Lighting
+14/05/2018,61510,150,-89.42,Loyalty,Online,Floor Lamps,Lighting
+14/05/2018,61520,150,-252.40,Loyalty,Online,Floor Lamps,Lighting
+14/05/2018,61530,150,-72.10,Loyalty,Online,Floral,Decor
+14/05/2018,61540,150,-39.59,Loyalty,Online,Floral,Decor
+14/05/2018,61550,150,-175.90,Loyalty,Online,Floral,Decor
+14/05/2018,61560,150,-102.19,Loyalty,Online,Floral,Decor
+14/05/2018,61570,150,-129.50,Loyalty,Online,Floral,Decor
+14/05/2018,62010,150,-807.05,Loyalty,Online,Floral,Decor
+14/05/2018,62020,150,-783.64,Loyalty,Online,Floral,Decor
+14/05/2018,62030,150,-183.22,Loyalty,Online,Floral,Decor
+14/05/2018,62099,150,27.86,Loyalty,Online,Floral,Decor
+14/05/2018,62510,120,-426.23,Loyalty,Online,Floral,Decor
+14/05/2018,62520,120,-125.73,Loyalty,Online,Floral,Decor
+14/05/2018,62530,120,-82.78,Loyalty,Online,Floral,Decor
+14/05/2018,62550,120,-37.49,Loyalty,Online,Floral,Decor
+14/05/2018,62560,120,-8.21,Loyalty,Online,Floral,Decor
+14/05/2018,63050,150,-55.64,Loyalty,Online,Floral,Decor
+14/05/2018,63060,150,-0.72,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,64000,150,182.45,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,64010,150,26.74,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,64020,150,4.69,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65520,110,-20.81,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65540,110,-400.17,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65550,110,-548.72,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65570,110,-4.84,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65590,110,-43.30,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65600,110,-213.35,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65610,110,-142.84,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65620,110,-145.30,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65650,110,-214.66,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65660,110,-272.59,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65690,110,-22.71,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65700,110,-233.88,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65710,110,-413.74,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65730,110,1.51,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65740,110,-368.21,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65750,110,-461.14,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,65760,110,-2.62,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,66010,130,-50.38,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,66020,130,-403.14,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,66030,130,-5.57,Loyalty,Online,Furniture Cushions,Pillows & Cushions
+14/05/2018,66040,130,-32.26,Loyalty,Online,Blankets,Pillows & Cushions
+14/05/2018,66050,130,-37.87,Loyalty,Online,Blankets,Pillows & Cushions
+14/05/2018,66070,130,-9.02,Loyalty,Online,Blankets,Pillows & Cushions
+14/05/2018,66080,130,-2.42,Loyalty,Online,Blankets,Pillows & Cushions
+14/05/2018,66090,130,-28.31,Loyalty,Online,Blankets,Pillows & Cushions
+14/05/2018,66100,130,-4.73,Loyalty,Online,Blankets,Pillows & Cushions
+14/05/2018,66110,130,-0.50,Loyalty,Online,Mirrors,Decor
+14/05/2018,66120,130,-7.34,Loyalty,Online,Mirrors,Decor
+14/05/2018,66130,130,-59.37,Loyalty,Online,Mirrors,Decor
+14/05/2018,66510,140,-58.70,Loyalty,Online,Mirrors,Decor
+14/05/2018,66520,140,-21.39,Loyalty,Online,Mirrors,Decor
+14/05/2018,66530,140,-30.49,Loyalty,Online,Mirrors,Decor
+14/05/2018,66550,140,-252.94,Loyalty,Online,Mirrors,Decor
+15/05/2018,61510,150,-97.55,Loyalty,Online,Mirrors,Decor
+15/05/2018,61520,150,-275.34,Loyalty,Online,Mirrors,Decor
+15/05/2018,61530,150,-78.66,Loyalty,Online,Mirrors,Decor
+15/05/2018,61540,150,-43.19,Loyalty,Online,Mirrors,Decor
+15/05/2018,61550,150,-191.89,Loyalty,Online,Mirrors,Decor
+15/05/2018,61560,150,-111.48,Loyalty,Online,Mirrors,Decor
+15/05/2018,61570,150,-141.27,Loyalty,Online,Mirrors,Decor
+15/05/2018,62010,150,-880.42,Loyalty,Online,Mirrors,Decor
+15/05/2018,62020,150,-854.88,Loyalty,Online,Mirrors,Decor
+15/05/2018,62030,150,-199.88,Loyalty,Online,Mirrors,Decor
+15/05/2018,62099,150,30.40,Loyalty,Online,Mirrors,Decor
+15/05/2018,62510,120,-464.98,Loyalty,Online,Mirrors,Decor
+15/05/2018,62520,120,-137.16,Loyalty,Online,Mirrors,Decor
+15/05/2018,62530,120,-90.31,Loyalty,Online,Mirrors,Decor
+15/05/2018,62550,120,-40.89,Loyalty,Online,Mirrors,Decor
+15/05/2018,62560,120,-8.96,Loyalty,Online,Mirrors,Decor
+15/05/2018,63050,150,-60.69,Loyalty,Online,Mirrors,Decor
+15/05/2018,63060,150,-0.78,Loyalty,Online,Ornaments,Decor
+15/05/2018,64000,150,199.04,Loyalty,Online,Ornaments,Decor
+15/05/2018,64010,150,29.17,Loyalty,Online,Ornaments,Decor
+15/05/2018,64020,150,5.11,Loyalty,Online,Ornaments,Decor
+15/05/2018,65520,110,-22.70,Loyalty,Online,Ornaments,Decor
+15/05/2018,65540,110,-436.55,Loyalty,Online,Ornaments,Decor
+15/05/2018,65550,110,-598.60,Loyalty,Online,Ornaments,Decor
+15/05/2018,65570,110,-5.28,Loyalty,Online,Ornaments,Decor
+15/05/2018,65590,110,-47.24,Loyalty,Online,Ornaments,Decor
+15/05/2018,65600,110,-232.74,Loyalty,Online,Ornaments,Decor
+15/05/2018,65610,110,-155.83,Loyalty,Online,Ornaments,Decor
+15/05/2018,65620,110,-158.51,Loyalty,Online,Ornaments,Decor
+15/05/2018,65650,110,-234.18,Loyalty,Online,Ornaments,Decor
+15/05/2018,65660,110,-297.37,Loyalty,Online,Ornaments,Decor
+15/05/2018,65690,110,-24.78,Loyalty,Online,Ornaments,Decor
+15/05/2018,65700,110,-255.14,Loyalty,Online,Ornaments,Decor
+15/05/2018,65710,110,-451.35,Loyalty,Online,Ornaments,Decor
+15/05/2018,65730,110,1.65,Loyalty,Online,Ornaments,Decor
+15/05/2018,65740,110,-401.68,Loyalty,Online,Ornaments,Decor
+15/05/2018,65750,110,-503.06,Loyalty,Online,Ornaments,Decor
+15/05/2018,65760,110,-2.86,Loyalty,Online,Ornaments,Decor
+15/05/2018,66010,130,-54.96,Loyalty,Online,Ornaments,Decor
+15/05/2018,66020,130,-439.79,Loyalty,Online,Ornaments,Decor
+15/05/2018,66030,130,-6.07,Loyalty,Online,Ornaments,Decor
+15/05/2018,66040,130,-35.19,Loyalty,Online,Outdoor Decor,Decor
+15/05/2018,66050,130,-41.31,Loyalty,Online,Outdoor Decor,Decor
+15/05/2018,66070,130,-9.84,Loyalty,Online,Outdoor Decor,Decor
+15/05/2018,66080,130,-2.64,Loyalty,Online,Outdoor Decor,Decor
+15/05/2018,66090,130,-30.89,Loyalty,Online,Outdoor Decor,Decor
+15/05/2018,66100,130,-5.16,Loyalty,Online,Outdoor Decor,Decor
+15/05/2018,66110,130,-0.55,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,66120,130,-8.01,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,66130,130,-64.77,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,66510,140,-64.04,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,66520,140,-23.34,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,66530,140,-33.26,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,66550,140,-275.93,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71010,120,2798.39,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71020,120,776.90,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71030,120,494.79,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71050,120,180.65,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71060,120,52.16,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71070,120,-172.14,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71075,120,119.53,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71080,120,32.12,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71160,150,231.70,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71170,150,726.78,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71180,150,417.67,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71190,150,195.81,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71200,150,244.09,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71240,150,1427.98,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71299,150,-21.64,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71310,150,5273.60,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71325,150,-584.03,Loyalty,Online,Outdoor Furniture,Furniture
+15/05/2018,71550,150,734.82,Loyalty,Online,Pendants,Lighting
+15/05/2018,71560,140,57.83,Loyalty,Online,Pendants,Lighting
+15/05/2018,71560,150,-9.11,Loyalty,Online,Pendants,Lighting
+15/05/2018,72010,110,2395.79,Loyalty,Online,Pendants,Lighting
+15/05/2018,72020,110,3926.71,Loyalty,Online,Pendants,Lighting
+15/05/2018,72030,120,-1.79,Loyalty,Online,Pendants,Lighting
+15/05/2018,72040,130,1315.38,Loyalty,Online,Candles,Decor
+15/05/2018,72050,140,2731.21,Loyalty,Online,Candles,Decor
+15/05/2018,72060,150,4504.75,Loyalty,Online,Candles,Decor
+15/05/2018,72070,150,4816.20,Loyalty,Online,Candles,Decor
+15/05/2018,72090,150,1108.03,Loyalty,Online,Candles,Decor
+15/05/2018,72100,150,659.55,Loyalty,Online,Candles,Decor
+15/05/2018,72110,160,2300.54,Loyalty,Online,Candles,Decor
+15/05/2018,72120,160,3457.28,Loyalty,Online,Candles,Decor
+15/05/2018,72130,160,3644.23,Loyalty,Online,Candles,Decor
+15/05/2018,72140,160,975.03,Loyalty,Online,Candles,Decor
+15/05/2018,72150,165,2155.01,Loyalty,Online,Candles,Decor
+15/05/2018,72160,170,1981.66,Loyalty,Online,Candles,Decor
+15/05/2018,72999,150,-328.52,Loyalty,Online,Candles,Decor
+15/05/2018,73010,110,219.71,Loyalty,Online,Candles,Decor
+15/05/2018,73010,130,64.90,Loyalty,Online,Candles,Decor
+15/05/2018,73010,140,44.22,Loyalty,Online,Candles,Decor
+15/05/2018,73010,150,423.61,Loyalty,Online,Candles,Decor
+15/05/2018,73010,160,381.00,Loyalty,Online,Candles,Decor
+15/05/2018,73010,165,85.08,Loyalty,Online,Candles,Decor
+15/05/2018,73010,170,234.23,Loyalty,Online,Candles,Decor
+15/05/2018,73020,110,135.00,Loyalty,Online,Candles,Decor
+15/05/2018,73020,130,33.22,Loyalty,Online,Candles,Decor
+15/05/2018,73020,140,22.44,Loyalty,Online,Candles,Decor
+15/05/2018,73020,150,263.73,Loyalty,Online,Candles,Decor
+15/05/2018,73020,160,202.13,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73020,165,44.64,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73020,170,35.94,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73030,110,318.65,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73030,150,491.15,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73030,160,315.78,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73030,165,84.88,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73030,170,51.04,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73040,110,146.52,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73040,150,224.40,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73040,160,110.88,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73040,165,35.64,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73050,110,56.22,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73050,130,18.48,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73050,140,13.24,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73050,150,116.94,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73050,160,100.07,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73050,165,19.90,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,73050,170,15.84,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,80990,110,1686.10,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,81050,160,830.89,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,81060,160,1826.92,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,81090,160,1788.31,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,81100,160,237.43,Loyalty,Online,Platters,Dining & Entertainment
+15/05/2018,81110,160,779.25,Loyalty,Online,Rugs,Decor
+15/05/2018,81140,160,83.51,Loyalty,Online,Rugs,Decor
+15/05/2018,81170,160,39.43,Loyalty,Online,Rugs,Decor
+15/05/2018,81180,160,48.12,Loyalty,Online,Rugs,Decor
+15/05/2018,81190,160,10.52,Loyalty,Online,Rugs,Decor
+15/05/2018,81200,160,10.06,Loyalty,Online,Rugs,Decor
+15/05/2018,81210,160,166.98,Loyalty,Online,Rugs,Decor
+15/05/2018,81220,160,783.16,Loyalty,Online,Rugs,Decor
+15/05/2018,81230,160,93.47,Loyalty,Online,Rugs,Decor
+15/05/2018,81250,160,78.44,Loyalty,Online,Rugs,Decor
+15/05/2018,81260,160,51.70,Loyalty,Online,Rugs,Decor
+15/05/2018,81270,160,217.99,Loyalty,Online,Rugs,Decor
+15/05/2018,81350,160,10.37,Loyalty,Online,Rugs,Decor
+15/05/2018,81900,165,349.41,Loyalty,Online,Rugs,Decor
+15/05/2018,82010,130,1124.96,Loyalty,Online,Rugs,Decor
+15/05/2018,82030,130,9.38,Loyalty,Online,Rugs,Decor
+15/05/2018,82040,130,65.27,Loyalty,Online,Rugs,Decor
+15/05/2018,82040,140,138.46,Loyalty,Online,Rugs,Decor
+15/05/2018,82050,150,28.05,Loyalty,Online,Rugs,Decor
+15/05/2018,82060,170,184.58,Loyalty,Online,Rugs,Decor
+15/05/2018,82070,150,93.18,Loyalty,Online,Rugs,Decor
+15/05/2018,83010,170,124.91,Loyalty,Online,Rugs,Decor
+15/05/2018,83020,130,80.96,Loyalty,Online,Rugs,Decor
+15/05/2018,83020,160,1635.83,Loyalty,Online,Rugs,Decor
+15/05/2018,83020,170,455.38,Loyalty,Online,Sculptures,Decor
+15/05/2018,83030,150,310.62,Loyalty,Online,Sculptures,Decor
+15/05/2018,83050,170,266.80,Loyalty,Online,Sculptures,Decor
+15/05/2018,83060,170,5.61,Loyalty,Online,Sculptures,Decor
+15/05/2018,83070,170,147.68,Loyalty,Online,Sculptures,Decor
+15/05/2018,84020,130,299.83,Loyalty,Online,Sculptures,Decor
+15/05/2018,84020,170,177.06,Loyalty,Online,Sculptures,Decor
+15/05/2018,85010,170,107.09,Loyalty,Online,Sculptures,Decor
+15/05/2018,85510,170,682.00,Loyalty,Online,Sculptures,Decor
+15/05/2018,86010,110,262.86,Loyalty,Online,Sculptures,Decor
+15/05/2018,86010,130,35.20,Loyalty,Online,Sculptures,Decor
+15/05/2018,86010,150,462.35,Loyalty,Online,Sculptures,Decor
+15/05/2018,86010,160,105.38,Loyalty,Online,Sculptures,Decor
+15/05/2018,86010,165,33.09,Loyalty,Online,Sculptures,Decor
+15/05/2018,86010,170,25.75,Loyalty,Online,Sculptures,Decor
+15/05/2018,86020,110,298.01,Loyalty,Online,Sculptures,Decor
+15/05/2018,86020,150,34.94,Loyalty,Online,Sculptures,Decor
+15/05/2018,86030,110,152.30,Loyalty,Online,Sculptures,Decor
+15/05/2018,86040,110,61.70,Loyalty,Online,Sculptures,Decor
+15/05/2018,86040,150,17.09,Loyalty,Online,Sculptures,Decor
+15/05/2018,86050,110,120.57,Loyalty,Online,Sculptures,Decor
+15/05/2018,86050,150,72.33,Loyalty,Online,Sculptures,Decor
+15/05/2018,86050,160,149.42,Loyalty,Online,Sculptures,Decor
+15/05/2018,86090,160,89.98,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86100,110,374.72,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86100,120,17.53,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86100,150,303.60,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86100,160,1.87,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86100,170,339.69,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86130,110,399.30,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86140,110,0.44,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86150,110,161.11,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86180,130,40.00,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86180,140,168.84,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86200,110,1363.16,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86200,150,32.01,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86200,160,266.45,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86260,120,43.08,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86270,150,185.91,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86280,150,58.85,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86290,150,266.54,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86310,150,471.11,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86330,150,729.15,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86350,150,130.35,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86360,150,50.50,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86400,170,-1.87,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86450,170,837.25,Loyalty,Online,Serveware,Dining & Entertainment
+15/05/2018,86830,170,25.78,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,61510,150,-121.94,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,61520,150,-344.17,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,61530,150,-98.32,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,61540,150,-53.99,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,61550,150,-239.86,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,61560,150,-139.35,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,61570,150,-176.59,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,62010,150,-1100.52,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,62020,150,-1068.60,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,62030,150,-249.85,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,62099,150,37.99,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,62510,120,-581.23,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,62520,120,-171.45,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,62530,120,-112.89,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,62550,120,-51.12,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,62560,120,-11.20,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,63050,150,-75.87,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,63060,150,-0.98,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,64000,150,248.80,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,64010,150,36.46,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,64020,150,6.39,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,65520,110,-28.38,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,65540,110,-545.69,Loyalty,Online,Stemware,Dining & Entertainment
+16/05/2018,65550,110,-748.25,Loyalty,Online,Table Lamps,Lighting
+16/05/2018,65570,110,-6.60,Loyalty,Online,Table Lamps,Lighting
+16/05/2018,65590,110,-59.05,Loyalty,Online,Table Lamps,Lighting
+16/05/2018,65600,110,-290.93,Loyalty,Online,Table Lamps,Lighting
+16/05/2018,65610,110,-194.78,Loyalty,Online,Table Lamps,Lighting
+16/05/2018,65620,110,-198.13,Loyalty,Online,Table Lamps,Lighting
+16/05/2018,65650,110,-292.72,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,65660,110,-371.71,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,65690,110,-30.97,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,65700,110,-318.93,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,65710,110,-564.19,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,65730,110,2.06,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,65740,110,-502.11,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,65750,110,-628.83,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,65760,110,-3.58,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66010,130,-68.70,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66020,130,-549.73,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66030,130,-7.59,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66040,130,-43.99,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66050,130,-51.64,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66070,130,-12.30,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66080,130,-3.30,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66090,130,-38.61,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66100,130,-6.45,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66110,130,-0.68,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66120,130,-10.01,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66130,130,-80.96,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66510,140,-80.05,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66520,140,-29.17,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66530,140,-41.58,Loyalty,Online,Table Linens,Dining & Entertainment
+16/05/2018,66550,140,-344.92,Loyalty,Online,Vanities,Furniture
+17/05/2018,61510,150,-170.72,Loyalty,Online,Vanities,Furniture
+17/05/2018,61520,150,-481.85,Loyalty,Online,Vanities,Furniture
+17/05/2018,61530,150,-137.65,Loyalty,Online,Vanities,Furniture
+17/05/2018,61540,150,-75.58,Loyalty,Online,Vanities,Furniture
+17/05/2018,61550,150,-335.80,Loyalty,Online,Vanities,Furniture
+17/05/2018,61560,150,-195.09,Loyalty,Online,Vanities,Furniture
+17/05/2018,61570,150,-247.23,Loyalty,Online,Vanities,Furniture
+17/05/2018,62010,150,-1540.73,Loyalty,Online,Vanities,Furniture
+17/05/2018,62020,150,-1496.04,Loyalty,Online,Vanities,Furniture
+17/05/2018,62030,150,-349.79,Loyalty,Online,Vanities,Furniture
+17/05/2018,62099,150,53.19,Loyalty,Online,Vanities,Furniture
+17/05/2018,62510,120,-813.72,Loyalty,Online,Vanities,Furniture
+17/05/2018,62520,120,-240.02,Loyalty,Online,Vanities,Furniture
+17/05/2018,62530,120,-158.04,Loyalty,Online,Vanities,Furniture
+17/05/2018,62550,120,-71.56,Loyalty,Online,Vanities,Furniture
+17/05/2018,62560,120,-15.68,Loyalty,Online,Vanities,Furniture
+17/05/2018,63050,150,-106.21,Loyalty,Online,Vanities,Furniture
+17/05/2018,63060,150,-1.37,Loyalty,Online,Vanities,Furniture
+17/05/2018,64000,150,348.32,Loyalty,Online,Vanities,Furniture
+17/05/2018,64010,150,51.05,Loyalty,Online,Vanities,Furniture
+17/05/2018,64020,150,8.95,Loyalty,Online,Vanities,Furniture
+17/05/2018,65520,110,-39.73,Loyalty,Online,Vanities,Furniture
+17/05/2018,65540,110,-763.96,Loyalty,Online,Vanities,Furniture
+17/05/2018,65550,110,-1047.55,Loyalty,Online,Vases,Decor
+17/05/2018,65570,110,-9.24,Loyalty,Online,Vases,Decor
+17/05/2018,65590,110,-82.67,Loyalty,Online,Vases,Decor
+17/05/2018,65600,110,-407.30,Loyalty,Online,Vases,Decor
+17/05/2018,65610,110,-272.70,Loyalty,Online,Vases,Decor
+17/05/2018,65620,110,-277.39,Loyalty,Online,Vases,Decor
+17/05/2018,65650,110,-409.81,Loyalty,Online,Vases,Decor
+17/05/2018,65660,110,-520.40,Loyalty,Online,Vases,Decor
+17/05/2018,65690,110,-43.36,Loyalty,Online,Vases,Decor
+17/05/2018,65700,110,-446.50,Loyalty,Online,Vases,Decor
+17/05/2018,65710,110,-789.86,Loyalty,Online,Vases,Decor
+17/05/2018,65730,110,2.89,Loyalty,Online,Vases,Decor
+17/05/2018,65740,110,-702.95,Loyalty,Online,Vases,Decor
+17/05/2018,65750,110,-880.36,Loyalty,Online,Vases,Decor
+17/05/2018,65760,110,-5.01,Loyalty,Online,Vases,Decor
+17/05/2018,66010,130,-96.18,Loyalty,Online,Vases,Decor
+17/05/2018,66020,130,-769.63,Loyalty,Online,Vases,Decor
+17/05/2018,66030,130,-10.63,Loyalty,Online,Vases,Decor
+17/05/2018,66040,130,-61.58,Loyalty,Online,Vases,Decor
+17/05/2018,66050,130,-72.30,Loyalty,Online,Vases,Decor
+17/05/2018,66070,130,-17.22,Loyalty,Online,Vases,Decor
+17/05/2018,66080,130,-4.62,Loyalty,Online,Vases,Decor
+17/05/2018,66090,130,-54.05,Loyalty,Online,Vases,Decor
+17/05/2018,66100,130,-9.03,Loyalty,Online,Vases,Decor
+17/05/2018,66110,130,-0.95,Loyalty,Online,Wall Coverings,Decor
+17/05/2018,66120,130,-14.02,Loyalty,Online,Wall Coverings,Decor
+17/05/2018,66130,130,-113.35,Loyalty,Online,Wall Coverings,Decor
+17/05/2018,66510,140,-112.07,Loyalty,Online,Wall Coverings,Decor
+17/05/2018,66520,140,-40.84,Loyalty,Online,Wall Coverings,Decor
+17/05/2018,66530,140,-58.21,Loyalty,Online,Wall Coverings,Decor
+17/05/2018,66550,140,-482.88,Loyalty,Online,Wall Frames,Decor
+18/05/2018,61510,150,-159.63,Loyalty,Online,Wall Frames,Decor
+18/05/2018,61520,150,-450.56,Loyalty,Online,Wall Frames,Decor
+18/05/2018,61530,150,-128.71,Loyalty,Online,Wall Frames,Decor
+18/05/2018,61540,150,-70.67,Loyalty,Online,Wall Frames,Decor
+18/05/2018,61550,150,-314.00,Loyalty,Online,Wall Frames,Decor
+18/05/2018,61560,150,-182.42,Loyalty,Online,Wall Frames,Decor
+18/05/2018,61570,150,-231.17,Loyalty,Online,Wall Frames,Decor
+18/05/2018,62010,150,-1440.68,Loyalty,Online,Wall Frames,Decor
+18/05/2018,62020,150,-1398.90,Loyalty,Online,Wall Frames,Decor
+18/05/2018,62030,150,-327.08,Loyalty,Online,Wall Frames,Decor
+18/05/2018,62099,150,49.74,Loyalty,Online,Wall Frames,Decor
+18/05/2018,62510,120,-760.88,Loyalty,Online,Wall Frames,Decor
+18/05/2018,62520,120,-224.44,Loyalty,Online,Wall Frames,Decor
+18/05/2018,62530,120,-147.78,Loyalty,Online,Wall Frames,Decor
+18/05/2018,62550,120,-66.92,Loyalty,Online,Wall Frames,Decor
+18/05/2018,62560,120,-14.66,Loyalty,Online,Wall Frames,Decor
+18/05/2018,63050,150,-99.32,Loyalty,Online,Wall Frames,Decor
+18/05/2018,63060,150,-1.28,Loyalty,Online,Wall Frames,Decor
+18/05/2018,64000,150,325.70,Loyalty,Online,Wall Frames,Decor
+18/05/2018,64010,150,47.73,Loyalty,Online,Wall Frames,Decor
+18/05/2018,64020,150,8.37,Loyalty,Online,Wall Frames,Decor
+18/05/2018,65520,110,-37.15,Loyalty,Online,Wall Frames,Decor
+18/05/2018,65540,110,-714.36,Loyalty,Online,Wall Frames,Decor
+18/05/2018,65550,110,-979.52,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65570,110,-8.64,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65590,110,-77.30,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65600,110,-380.85,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65610,110,-254.99,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65620,110,-259.38,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65650,110,-383.20,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65660,110,-486.60,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65690,110,-40.54,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65700,110,-417.50,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65710,110,-738.57,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65730,110,2.70,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65740,110,-657.30,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65750,110,-823.19,Loyalty,Online,Wardrobes,Decor
+18/05/2018,65760,110,-4.68,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66010,130,-89.93,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66020,130,-719.65,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66030,130,-9.94,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66040,130,-57.59,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66050,130,-67.61,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66070,130,-16.10,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66080,130,-4.32,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66090,130,-50.54,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66100,130,-8.45,Loyalty,Online,Wardrobes,Decor
+18/05/2018,66110,130,-0.89,Loyalty,Online,Wine Storage,Dining & Entertainment
+18/05/2018,66120,130,-13.11,Loyalty,Online,Wine Storage,Dining & Entertainment
+18/05/2018,66130,130,-105.99,Loyalty,Online,Wine Storage,Dining & Entertainment
+18/05/2018,66510,140,-104.80,Loyalty,Online,Wine Storage,Dining & Entertainment
+18/05/2018,66520,140,-38.19,Loyalty,Online,Wine Storage,Dining & Entertainment
+18/05/2018,66530,140,-54.43,Loyalty,Online,Wine Storage,Dining & Entertainment
+18/05/2018,66550,140,-451.53,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,61510,150,-129.70,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,61520,150,-366.08,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,61530,150,-104.58,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,61540,150,-57.42,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,61550,150,-255.12,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,61560,150,-148.21,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,61570,150,-187.83,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,62010,150,-1170.56,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,62020,150,-1136.61,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,62030,150,-265.75,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,62099,150,40.41,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,62510,120,-618.21,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,62520,120,-182.36,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,62530,120,-120.07,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,62550,120,-54.37,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,62560,120,-11.91,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,63050,150,-80.69,Loyalty,Online,Wine Storage,Dining & Entertainment
+19/05/2018,63060,150,-1.04,Loyalty,Online,Wreaths,Decor
+19/05/2018,64000,150,264.63,Loyalty,Online,Wreaths,Decor
+19/05/2018,64010,150,38.78,Loyalty,Online,Wreaths,Decor
+19/05/2018,64020,150,6.80,Loyalty,Online,Wreaths,Decor
+19/05/2018,65520,110,-30.19,Loyalty,Online,Wreaths,Decor
+19/05/2018,65540,110,-580.41,Loyalty,Online,Wreaths,Decor
+19/05/2018,65550,110,-795.86,Loyalty,Online,Wreaths,Decor
+19/05/2018,65570,110,-7.02,Loyalty,Online,Wreaths,Decor
+19/05/2018,65590,110,-62.81,Loyalty,Online,Wreaths,Decor
+19/05/2018,65600,110,-309.44,Loyalty,Online,Wreaths,Decor
+19/05/2018,65610,110,-207.18,Loyalty,Online,Wreaths,Decor
+19/05/2018,65620,110,-210.74,Loyalty,Online,Wreaths,Decor
+19/05/2018,65650,110,-311.35,Loyalty,Online,Wreaths,Decor
+19/05/2018,65660,110,-395.37,Loyalty,Online,Wreaths,Decor
+19/05/2018,65690,110,-32.94,Loyalty,Online,Wreaths,Decor
+19/05/2018,65700,110,-339.22,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,65710,110,-600.09,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,65730,110,2.20,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,65740,110,-534.06,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,65750,110,-668.84,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,65760,110,-3.80,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66010,130,-73.07,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66020,130,-584.72,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66030,130,-8.07,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66040,130,-46.79,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66050,130,-54.93,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66070,130,-13.08,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66080,130,-3.51,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66090,130,-41.07,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66100,130,-6.86,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66110,130,-0.72,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66120,130,-10.65,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66130,130,-86.12,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66510,140,-85.14,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66520,140,-31.03,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66530,140,-44.23,Non-Loyalty,Retail Store,Accessories,Decor
+19/05/2018,66550,140,-366.87,Non-Loyalty,Retail Store,Accessories,Decor
+20/05/2018,61510,150,-119.72,Non-Loyalty,Retail Store,Accessories,Decor
+20/05/2018,61520,150,-337.92,Non-Loyalty,Retail Store,Accessories,Decor
+20/05/2018,61530,150,-96.53,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,61540,150,-53.00,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,61550,150,-235.50,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,61560,150,-136.81,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,61570,150,-173.38,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,62010,150,-1080.51,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,62020,150,-1049.17,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,62030,150,-245.31,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,62099,150,37.30,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,62510,120,-570.66,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,62520,120,-168.33,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,62530,120,-110.84,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,62550,120,-50.19,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,62560,120,-10.99,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,63050,150,-74.49,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,63060,150,-0.96,Non-Loyalty,Retail Store,Bakeware,Dining & Entertainment
+20/05/2018,64000,150,244.27,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,64010,150,35.80,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,64020,150,6.27,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65520,110,-27.86,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65540,110,-535.77,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65550,110,-734.64,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65570,110,-6.48,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65590,110,-57.98,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65600,110,-285.64,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65610,110,-191.24,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65620,110,-194.53,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65650,110,-287.40,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65660,110,-364.95,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65690,110,-30.41,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65700,110,-313.13,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65710,110,-553.93,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65730,110,2.03,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65740,110,-492.98,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65750,110,-617.39,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,65760,110,-3.51,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,66010,130,-67.45,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,66020,130,-539.74,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,66030,130,-7.45,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,66040,130,-43.19,Non-Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+20/05/2018,66050,130,-50.70,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66070,130,-12.08,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66080,130,-3.24,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66090,130,-37.91,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66100,130,-6.33,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66110,130,-0.67,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66120,130,-9.83,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66130,130,-79.49,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66510,140,-78.59,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66520,140,-28.64,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66530,140,-40.82,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+20/05/2018,66550,140,-338.64,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,61510,150,-109.74,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,61520,150,-309.76,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,61530,150,-88.49,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,61540,150,-48.59,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,61550,150,-215.87,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,61560,150,-125.41,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,61570,150,-158.93,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,62010,150,-990.47,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,62020,150,-961.74,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,62030,150,-224.86,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,62099,150,34.20,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,62510,120,-523.10,Non-Loyalty,Retail Store,Bathroom Furniture,Furniture
+21/05/2018,62520,120,-154.30,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,62530,120,-101.60,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,62550,120,-46.01,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,62560,120,-10.08,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,63050,150,-68.28,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,63060,150,-0.88,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,64000,150,223.92,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,64010,150,32.82,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,64020,150,5.75,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65520,110,-25.54,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65540,110,-491.12,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65550,110,-673.42,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65570,110,-5.94,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65590,110,-53.15,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65600,110,-261.84,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65610,110,-175.31,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65620,110,-178.32,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65650,110,-263.45,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65660,110,-334.54,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65690,110,-27.87,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65700,110,-287.03,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65710,110,-507.77,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65730,110,1.86,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65740,110,-451.90,Non-Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+21/05/2018,65750,110,-565.94,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,65760,110,-3.22,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66010,130,-61.83,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66020,130,-494.76,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66030,130,-6.83,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66040,130,-39.59,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66050,130,-46.48,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66070,130,-11.07,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66080,130,-2.97,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66090,130,-34.75,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66100,130,-5.81,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66110,130,-0.61,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66120,130,-9.01,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66130,130,-72.87,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66510,140,-72.05,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66520,140,-26.25,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66530,140,-37.42,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+21/05/2018,66550,140,-310.42,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+22/05/2018,61510,150,-119.72,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+22/05/2018,61520,150,-337.92,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+22/05/2018,61530,150,-96.53,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+22/05/2018,61540,150,-53.00,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+22/05/2018,61550,150,-235.50,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+22/05/2018,61560,150,-136.81,Non-Loyalty,Retail Store,Bedroom Furniture,Furniture
+22/05/2018,61570,150,-173.38,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,62010,150,-1080.51,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,62020,150,-1049.17,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,62030,150,-245.31,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,62099,150,37.30,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,62510,120,-570.66,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,62520,120,-168.33,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,62530,120,-110.84,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,62550,120,-50.19,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,62560,120,-10.99,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,63050,150,-74.49,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,63060,150,-0.96,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,64000,150,244.27,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,64010,150,35.80,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,64020,150,6.27,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65520,110,-27.86,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65540,110,-535.77,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65550,110,-734.64,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65570,110,-6.48,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65590,110,-57.98,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65600,110,-285.64,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65610,110,-191.24,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65620,110,-194.53,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65650,110,-287.40,Non-Loyalty,Retail Store,Home Fragrances,Decor
+22/05/2018,65660,110,-364.95,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,65690,110,-30.41,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,65700,110,-313.13,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,65710,110,-553.93,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,65730,110,2.03,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,65740,110,-492.98,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,65750,110,-617.39,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,65760,110,-3.51,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,66010,130,-67.45,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,66020,130,-539.74,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,66030,130,-7.45,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,66040,130,-43.19,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,66050,130,-50.70,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,66070,130,-12.08,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,66080,130,-3.24,Non-Loyalty,Retail Store,Candleholders,Decor
+22/05/2018,66090,130,-37.91,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,66100,130,-6.33,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,66110,130,-0.67,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,66120,130,-9.83,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,66130,130,-79.49,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,66510,140,-78.59,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,66520,140,-28.64,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,66530,140,-40.82,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,66550,140,-338.64,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,71010,120,3434.39,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,71020,120,953.47,Non-Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+22/05/2018,71030,120,607.24,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71050,120,221.70,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71060,120,64.01,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71070,120,-211.26,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71075,120,146.69,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71080,120,39.41,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71160,150,284.36,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71170,150,891.96,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71180,150,512.59,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71190,150,240.31,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71200,150,299.57,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71240,150,1752.52,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71299,150,-26.56,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71310,150,6472.15,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71325,150,-716.76,Non-Loyalty,Retail Store,Clocks,Decor
+22/05/2018,71550,150,901.82,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,71560,140,70.98,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,71560,150,-11.18,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72010,110,2940.29,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72020,110,4819.15,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72030,120,-2.20,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72040,130,1614.33,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72050,140,3351.94,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72060,150,5528.56,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72070,150,5910.79,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72090,150,1359.86,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72100,150,809.44,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72110,160,2823.39,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72120,160,4243.02,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72130,160,4472.46,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72140,160,1196.63,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72150,165,2644.78,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72160,170,2432.03,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,72999,150,-403.19,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,73010,110,269.64,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,73010,130,79.65,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,73010,140,54.27,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,73010,150,519.89,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,73010,160,467.59,Non-Loyalty,Retail Store,Pillows,Pillows & Cushions
+22/05/2018,73010,165,104.42,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73010,170,287.46,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73020,110,165.69,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73020,130,40.77,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73020,140,27.54,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73020,150,323.67,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73020,160,248.07,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73020,165,54.79,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73020,170,44.11,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73030,110,391.07,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73030,150,602.77,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73030,160,387.54,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73030,165,104.17,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73030,170,62.64,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73040,110,179.82,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73040,150,275.40,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73040,160,136.08,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73040,165,43.74,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73050,110,69.00,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73050,130,22.68,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73050,140,16.24,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73050,150,143.52,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73050,160,122.81,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73050,165,24.42,Non-Loyalty,Retail Store,Collectibles,Decor
+22/05/2018,73050,170,19.44,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,80990,110,2069.30,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81050,160,1019.73,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81060,160,2242.13,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81090,160,2194.74,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81100,160,291.39,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81110,160,956.35,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81140,160,102.49,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81170,160,48.39,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81180,160,59.05,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81190,160,12.91,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81200,160,12.34,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81210,160,204.94,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81220,160,961.15,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81230,160,114.72,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81250,160,96.27,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81260,160,63.44,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81270,160,267.53,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81350,160,12.72,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,81900,165,428.82,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,82010,130,1380.63,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,82030,130,11.51,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,82040,130,80.11,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,82040,140,169.92,Non-Loyalty,Retail Store,Cookware,Dining & Entertainment
+22/05/2018,82050,150,34.43,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,82060,170,226.52,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,82070,150,114.36,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,83010,170,153.30,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,83020,130,99.36,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,83020,160,2007.61,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,83020,170,558.88,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,83030,150,381.22,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,83050,170,327.43,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,83060,170,6.89,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,83070,170,181.24,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,84020,130,367.97,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,84020,170,217.31,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,85010,170,131.43,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,85510,170,837.00,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86010,110,322.60,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86010,130,43.20,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86010,150,567.43,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86010,160,129.33,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86010,165,40.61,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86010,170,31.61,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86020,110,365.74,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86020,150,42.89,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86030,110,186.91,Non-Loyalty,Retail Store,Dining Furniture,Furniture
+22/05/2018,86040,110,75.73,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86040,150,20.97,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86050,110,147.97,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86050,150,88.77,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86050,160,183.37,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86090,160,110.43,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86100,110,459.88,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86100,120,21.51,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86100,150,372.59,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86100,160,2.30,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86100,170,416.89,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86130,110,490.05,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86140,110,0.54,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86150,110,197.72,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86180,130,49.10,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86180,140,207.21,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86200,110,1672.96,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86200,150,39.29,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86200,160,327.01,Non-Loyalty,Retail Store,Dinnerware,Dining & Entertainment
+22/05/2018,86260,120,52.87,Non-Loyalty,Retail Store,Festive,Decor
+22/05/2018,86270,150,228.16,Non-Loyalty,Retail Store,Festive,Decor
+22/05/2018,86280,150,72.23,Non-Loyalty,Retail Store,Festive,Decor
+22/05/2018,86290,150,327.12,Non-Loyalty,Retail Store,Festive,Decor
+22/05/2018,86310,150,578.18,Non-Loyalty,Retail Store,Festive,Decor
+22/05/2018,86330,150,894.86,Non-Loyalty,Retail Store,Festive,Decor
+22/05/2018,86350,150,159.97,Non-Loyalty,Retail Store,Floor Lamps,Lighting
+22/05/2018,86360,150,61.98,Non-Loyalty,Retail Store,Floor Lamps,Lighting
+22/05/2018,86400,170,-2.29,Non-Loyalty,Retail Store,Floor Lamps,Lighting
+22/05/2018,86450,170,1027.53,Non-Loyalty,Retail Store,Floral,Decor
+22/05/2018,86830,170,31.63,Non-Loyalty,Retail Store,Floral,Decor
+23/05/2018,61510,150,-149.65,Non-Loyalty,Retail Store,Floral,Decor
+23/05/2018,61520,150,-422.40,Non-Loyalty,Retail Store,Floral,Decor
+23/05/2018,61530,150,-120.67,Non-Loyalty,Retail Store,Floral,Decor
+23/05/2018,61540,150,-66.26,Non-Loyalty,Retail Store,Floral,Decor
+23/05/2018,61550,150,-294.37,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,61560,150,-171.02,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,61570,150,-216.72,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,62010,150,-1350.64,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,62020,150,-1311.47,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,62030,150,-306.63,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,62099,150,46.63,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,62510,120,-713.32,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,62520,120,-210.41,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,62530,120,-138.54,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,62550,120,-62.73,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,62560,120,-13.74,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,63050,150,-93.11,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,63060,150,-1.20,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,64000,150,305.34,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,64010,150,44.75,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,64020,150,7.85,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,65520,110,-34.83,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,65540,110,-669.71,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,65550,110,-918.31,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,65570,110,-8.10,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,65590,110,-72.47,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,65600,110,-357.05,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,65610,110,-239.05,Non-Loyalty,Retail Store,Furniture Cushions,Pillows & Cushions
+23/05/2018,65620,110,-243.16,Non-Loyalty,Retail Store,Blankets,Pillows & Cushions
+23/05/2018,65650,110,-359.25,Non-Loyalty,Retail Store,Blankets,Pillows & Cushions
+23/05/2018,65660,110,-456.19,Non-Loyalty,Retail Store,Blankets,Pillows & Cushions
+23/05/2018,65690,110,-38.01,Non-Loyalty,Retail Store,Blankets,Pillows & Cushions
+23/05/2018,65700,110,-391.41,Non-Loyalty,Retail Store,Blankets,Pillows & Cushions
+23/05/2018,65710,110,-692.41,Non-Loyalty,Retail Store,Blankets,Pillows & Cushions
+23/05/2018,65730,110,2.53,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,65740,110,-616.22,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,65750,110,-771.74,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,65760,110,-4.39,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66010,130,-84.31,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66020,130,-674.67,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66030,130,-9.32,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66040,130,-53.99,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66050,130,-63.38,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66070,130,-15.10,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66080,130,-4.05,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66090,130,-47.39,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66100,130,-7.92,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66110,130,-0.84,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66120,130,-12.29,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66130,130,-99.37,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66510,140,-98.24,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66520,140,-35.80,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66530,140,-51.03,Non-Loyalty,Retail Store,Mirrors,Decor
+23/05/2018,66550,140,-423.31,Non-Loyalty,Retail Store,Mirrors,Decor
+24/05/2018,61510,150,-209.51,Non-Loyalty,Retail Store,Mirrors,Decor
+24/05/2018,61520,150,-591.36,Non-Loyalty,Retail Store,Mirrors,Decor
+24/05/2018,61530,150,-168.93,Non-Loyalty,Retail Store,Mirrors,Decor
+24/05/2018,61540,150,-92.76,Non-Loyalty,Retail Store,Mirrors,Decor
+24/05/2018,61550,150,-412.12,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,61560,150,-239.42,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,61570,150,-303.42,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,62010,150,-1890.90,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,62020,150,-1836.05,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,62030,150,-429.28,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,62099,150,65.28,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,62510,120,-998.65,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,62520,120,-294.58,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,62530,120,-193.96,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,62550,120,-87.83,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,62560,120,-19.24,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,63050,150,-130.35,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,63060,150,-1.68,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,64000,150,427.48,Non-Loyalty,Retail Store,Ornaments,Decor
+24/05/2018,64010,150,62.65,Non-Loyalty,Retail Store,Outdoor Decor,Decor
+24/05/2018,64020,150,10.98,Non-Loyalty,Retail Store,Outdoor Decor,Decor
+24/05/2018,65520,110,-48.76,Non-Loyalty,Retail Store,Outdoor Decor,Decor
+24/05/2018,65540,110,-937.59,Non-Loyalty,Retail Store,Outdoor Decor,Decor
+24/05/2018,65550,110,-1285.63,Non-Loyalty,Retail Store,Outdoor Decor,Decor
+24/05/2018,65570,110,-11.34,Non-Loyalty,Retail Store,Outdoor Decor,Decor
+24/05/2018,65590,110,-101.46,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65600,110,-499.87,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65610,110,-334.67,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65620,110,-340.43,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65650,110,-502.95,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65660,110,-638.67,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65690,110,-53.21,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65700,110,-547.97,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65710,110,-969.38,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65730,110,3.55,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65740,110,-862.71,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65750,110,-1080.44,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,65760,110,-6.14,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66010,130,-118.04,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66020,130,-944.54,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66030,130,-13.04,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66040,130,-75.58,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66050,130,-88.73,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66070,130,-21.14,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66080,130,-5.67,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66090,130,-66.34,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66100,130,-11.09,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66110,130,-1.17,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66120,130,-17.21,Non-Loyalty,Retail Store,Outdoor Furniture,Furniture
+24/05/2018,66130,130,-139.11,Non-Loyalty,Retail Store,Pendants,Lighting
+24/05/2018,66510,140,-137.54,Non-Loyalty,Retail Store,Pendants,Lighting
+24/05/2018,66520,140,-50.12,Non-Loyalty,Retail Store,Pendants,Lighting
+24/05/2018,66530,140,-71.44,Non-Loyalty,Retail Store,Photo Frames,Decor
+24/05/2018,66550,140,-592.63,Non-Loyalty,Retail Store,Photo Frames,Decor
+25/05/2018,61510,150,-195.10,Non-Loyalty,Retail Store,Photo Frames,Decor
+25/05/2018,61520,150,-550.68,Non-Loyalty,Retail Store,Photo Frames,Decor
+25/05/2018,61530,150,-157.31,Non-Loyalty,Retail Store,Photo Frames,Decor
+25/05/2018,61540,150,-86.37,Non-Loyalty,Retail Store,Photo Frames,Decor
+25/05/2018,61550,150,-383.77,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,61560,150,-222.95,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,61570,150,-282.55,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,62010,150,-1760.84,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,62020,150,-1709.76,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,62030,150,-399.76,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,62099,150,60.79,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,62510,120,-929.96,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,62520,120,-274.31,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,62530,120,-180.62,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,62550,120,-81.79,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,62560,120,-17.92,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,63050,150,-121.39,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,63060,150,-1.56,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,64000,150,398.07,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,64010,150,58.34,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,64020,150,10.23,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,65520,110,-45.41,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,65540,110,-873.10,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,65550,110,-1197.20,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,65570,110,-10.56,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,65590,110,-94.48,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,65600,110,-465.48,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,65610,110,-311.65,Non-Loyalty,Retail Store,Candles,Decor
+25/05/2018,65620,110,-317.01,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,65650,110,-468.36,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,65660,110,-594.74,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,65690,110,-49.55,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,65700,110,-510.28,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,65710,110,-902.70,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,65730,110,3.30,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,65740,110,-803.37,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,65750,110,-1006.12,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,65760,110,-5.72,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66010,130,-109.92,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66020,130,-879.57,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66030,130,-12.14,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66040,130,-70.38,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66050,130,-82.63,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66070,130,-19.68,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66080,130,-5.28,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66090,130,-61.78,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66100,130,-10.32,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66110,130,-1.09,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66120,130,-16.02,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66130,130,-129.54,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66510,140,-128.08,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66520,140,-46.68,Non-Loyalty,Retail Store,Platters,Dining & Entertainment
+25/05/2018,66530,140,-66.53,Non-Loyalty,Retail Store,Rugs,Decor
+25/05/2018,66550,140,-551.87,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,61510,150,-158.52,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,61520,150,-447.43,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,61530,150,-127.82,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,61540,150,-70.18,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,61550,150,-311.81,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,61560,150,-181.15,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,61570,150,-229.57,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,62010,150,-1430.68,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,62020,150,-1389.18,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,62030,150,-324.80,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,62099,150,49.39,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,62510,120,-755.59,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,62520,120,-222.88,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,62530,120,-146.75,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,62550,120,-66.45,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,62560,120,-14.56,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,63050,150,-98.63,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,63060,150,-1.27,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,64000,150,323.44,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,64010,150,47.40,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,64020,150,8.31,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,65520,110,-36.89,Non-Loyalty,Retail Store,Rugs,Decor
+26/05/2018,65540,110,-709.39,Non-Loyalty,Retail Store,Sculptures,Decor
+26/05/2018,65550,110,-972.72,Non-Loyalty,Retail Store,Sculptures,Decor
+26/05/2018,65570,110,-8.58,Non-Loyalty,Retail Store,Sculptures,Decor
+26/05/2018,65590,110,-76.77,Non-Loyalty,Retail Store,Sculptures,Decor
+26/05/2018,65600,110,-378.21,Non-Loyalty,Retail Store,Sculptures,Decor
+26/05/2018,65610,110,-253.22,Non-Loyalty,Retail Store,Sculptures,Decor
+26/05/2018,65620,110,-257.57,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,65650,110,-380.54,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,65660,110,-483.23,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,65690,110,-40.26,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,65700,110,-414.61,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,65710,110,-733.44,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,65730,110,2.68,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,65740,110,-652.74,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,65750,110,-817.48,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,65760,110,-4.65,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,66010,130,-89.31,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,66020,130,-714.65,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,66030,130,-9.87,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,66040,130,-57.19,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,66050,130,-67.14,Non-Loyalty,Retail Store,Serveware,Dining & Entertainment
+26/05/2018,66070,130,-15.99,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66080,130,-4.29,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66090,130,-50.19,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66100,130,-8.39,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66110,130,-0.88,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66120,130,-13.02,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66130,130,-105.25,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66510,140,-104.07,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66520,140,-37.92,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66530,140,-54.05,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+26/05/2018,66550,140,-448.39,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,61510,150,-146.33,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,61520,150,-413.01,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,61530,150,-117.98,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,61540,150,-64.78,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,61550,150,-287.83,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,61560,150,-167.21,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,61570,150,-211.91,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,62010,150,-1320.63,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,62020,150,-1282.32,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,62030,150,-299.82,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,62099,150,45.59,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,62510,120,-697.47,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,62520,120,-205.74,Non-Loyalty,Retail Store,Stemware,Dining & Entertainment
+27/05/2018,62530,120,-135.47,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,62550,120,-61.34,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,62560,120,-13.44,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,63050,150,-91.04,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,63060,150,-1.17,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,64000,150,298.55,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,64010,150,43.75,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,64020,150,7.67,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65520,110,-34.06,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65540,110,-654.83,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65550,110,-897.90,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65570,110,-7.92,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65590,110,-70.86,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65600,110,-349.11,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65610,110,-233.74,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65620,110,-237.76,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65650,110,-351.27,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65660,110,-446.05,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65690,110,-37.16,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65700,110,-382.71,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65710,110,-677.02,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65730,110,2.48,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65740,110,-602.53,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65750,110,-754.59,Non-Loyalty,Retail Store,Table Linens,Dining & Entertainment
+27/05/2018,65760,110,-4.29,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66010,130,-82.44,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66020,130,-659.68,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66030,130,-9.11,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66040,130,-52.79,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66050,130,-61.97,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66070,130,-14.76,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66080,130,-3.96,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66090,130,-46.33,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66100,130,-7.74,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66110,130,-0.82,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66120,130,-12.02,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66130,130,-97.16,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66510,140,-96.06,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66520,140,-35.01,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66530,140,-49.90,Non-Loyalty,Retail Store,Vanities,Furniture
+27/05/2018,66550,140,-413.90,Non-Loyalty,Retail Store,Vanities,Furniture
+28/05/2018,61510,150,-134.13,Non-Loyalty,Retail Store,Vanities,Furniture
+28/05/2018,61520,150,-378.59,Non-Loyalty,Retail Store,Vanities,Furniture
+28/05/2018,61530,150,-108.15,Non-Loyalty,Retail Store,Vanities,Furniture
+28/05/2018,61540,150,-59.38,Non-Loyalty,Retail Store,Vanities,Furniture
+28/05/2018,61550,150,-263.84,Non-Loyalty,Retail Store,Vanities,Furniture
+28/05/2018,61560,150,-153.28,Non-Loyalty,Retail Store,Vanities,Furniture
+28/05/2018,61570,150,-194.25,Non-Loyalty,Retail Store,Vanities,Furniture
+28/05/2018,62010,150,-1210.58,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,62020,150,-1175.46,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,62030,150,-274.83,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,62099,150,41.79,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,62510,120,-639.35,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,62520,120,-188.59,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,62530,120,-124.18,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,62550,120,-56.23,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,62560,120,-12.32,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,63050,150,-83.45,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,63060,150,-1.08,Non-Loyalty,Retail Store,Vases,Decor
+28/05/2018,64000,150,273.68,Non-Loyalty,Retail Store,Wall Coverings,Decor
+28/05/2018,64010,150,40.11,Non-Loyalty,Retail Store,Wall Coverings,Decor
+28/05/2018,64020,150,7.03,Non-Loyalty,Retail Store,Wall Coverings,Decor
+28/05/2018,65520,110,-31.22,Non-Loyalty,Retail Store,Wall Coverings,Decor
+28/05/2018,65540,110,-600.26,Non-Loyalty,Retail Store,Wall Coverings,Decor
+28/05/2018,65550,110,-823.07,Non-Loyalty,Retail Store,Wall Coverings,Decor
+28/05/2018,65570,110,-7.26,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65590,110,-64.96,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65600,110,-320.02,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65610,110,-214.26,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65620,110,-217.95,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65650,110,-321.99,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65660,110,-408.88,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65690,110,-34.07,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65700,110,-350.82,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65710,110,-620.60,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65730,110,2.27,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65740,110,-552.32,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65750,110,-691.71,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,65760,110,-3.93,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,66010,130,-75.57,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,66020,130,-604.71,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,66030,130,-8.35,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,66040,130,-48.39,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,66050,130,-56.81,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,66070,130,-13.53,Non-Loyalty,Retail Store,Wall Frames,Decor
+28/05/2018,66080,130,-3.63,Non-Loyalty,Retail Store,Wardrobes,Decor
+28/05/2018,66090,130,-42.47,Non-Loyalty,Retail Store,Wardrobes,Decor
+28/05/2018,66100,130,-7.10,Non-Loyalty,Retail Store,Wardrobes,Decor
+28/05/2018,66110,130,-0.75,Non-Loyalty,Retail Store,Wardrobes,Decor
+28/05/2018,66120,130,-11.02,Non-Loyalty,Retail Store,Wardrobes,Decor
+28/05/2018,66130,130,-89.06,Non-Loyalty,Retail Store,Wardrobes,Decor
+28/05/2018,66510,140,-88.06,Non-Loyalty,Retail Store,Wardrobes,Decor
+28/05/2018,66520,140,-32.09,Non-Loyalty,Retail Store,Wardrobes,Decor
+28/05/2018,66530,140,-45.74,Non-Loyalty,Retail Store,Wardrobes,Decor
+28/05/2018,66550,140,-379.41,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,61510,150,-146.33,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,61520,150,-413.01,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,61530,150,-117.98,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,61540,150,-64.78,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,61550,150,-287.83,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,61560,150,-167.21,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,61570,150,-211.91,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,62010,150,-1320.63,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,62020,150,-1282.32,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,62030,150,-299.82,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,62099,150,45.59,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,62510,120,-697.47,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,62520,120,-205.74,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,62530,120,-135.47,Non-Loyalty,Retail Store,Wardrobes,Decor
+29/05/2018,62550,120,-61.34,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,62560,120,-13.44,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,63050,150,-91.04,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,63060,150,-1.17,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,64000,150,298.55,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,64010,150,43.75,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,64020,150,7.67,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65520,110,-34.06,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65540,110,-654.83,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65550,110,-897.90,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65570,110,-7.92,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65590,110,-70.86,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65600,110,-349.11,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65610,110,-233.74,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65620,110,-237.76,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65650,110,-351.27,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65660,110,-446.05,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65690,110,-37.16,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65700,110,-382.71,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65710,110,-677.02,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65730,110,2.48,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65740,110,-602.53,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65750,110,-754.59,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,65760,110,-4.29,Non-Loyalty,Retail Store,Wine Storage,Dining & Entertainment
+29/05/2018,66010,130,-82.44,Non-Loyalty,Retail Store,Wreaths,Decor
+29/05/2018,66020,130,-659.68,Non-Loyalty,Retail Store,Wreaths,Decor
+29/05/2018,66030,130,-9.11,Non-Loyalty,Retail Store,Wreaths,Decor
+29/05/2018,66040,130,-52.79,Non-Loyalty,Retail Store,Wreaths,Decor
+29/05/2018,66050,130,-61.97,Non-Loyalty,Retail Store,Wreaths,Decor
+29/05/2018,66070,130,-14.76,Non-Loyalty,Retail Store,Wreaths,Decor
+29/05/2018,66080,130,-3.96,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,66090,130,-46.33,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,66100,130,-7.74,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,66110,130,-0.82,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,66120,130,-12.02,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,66130,130,-97.16,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,66510,140,-96.06,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,66520,140,-35.01,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,66530,140,-49.90,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,66550,140,-413.90,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,71010,120,4197.58,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,71020,120,1165.35,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,71030,120,742.18,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,71050,120,270.97,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,71060,120,78.24,Loyalty,Retail Store,Accessories,Decor
+29/05/2018,71070,120,-258.21,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71075,120,179.29,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71080,120,48.17,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71160,150,347.55,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71170,150,1090.17,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71180,150,626.50,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71190,150,293.72,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71200,150,366.14,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71240,150,2141.97,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71299,150,-32.47,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71310,150,7910.40,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71325,150,-876.04,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71550,150,1102.23,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71560,140,86.75,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,71560,150,-13.67,Loyalty,Retail Store,Bakeware,Dining & Entertainment
+29/05/2018,72010,110,3593.68,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72020,110,5890.07,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72030,120,-2.68,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72040,130,1973.07,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72050,140,4096.82,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72060,150,6757.13,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72070,150,7224.29,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72090,150,1662.05,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72100,150,989.32,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72110,160,3450.81,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72120,160,5185.92,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72130,160,5466.34,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72140,160,1462.55,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72150,165,3232.51,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72160,170,2972.48,Loyalty,Retail Store,Bar Tools,Dining & Entertainment
+29/05/2018,72999,150,-492.78,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73010,110,329.56,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73010,130,97.35,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73010,140,66.33,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73010,150,635.42,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73010,160,571.50,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73010,165,127.62,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73010,170,351.34,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73020,110,202.50,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73020,130,49.83,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73020,140,33.66,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73020,150,395.59,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73020,160,303.20,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73020,165,66.97,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73020,170,53.91,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73030,110,477.98,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73030,150,736.72,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73030,160,473.67,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73030,165,127.32,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73030,170,76.56,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73040,110,219.78,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73040,150,336.60,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73040,160,166.32,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73040,165,53.46,Loyalty,Retail Store,Bathroom Furniture,Furniture
+29/05/2018,73050,110,84.33,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,73050,130,27.72,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,73050,140,19.85,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,73050,150,175.41,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,73050,160,150.10,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,73050,165,29.85,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,73050,170,23.76,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,80990,110,2529.14,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81050,160,1246.34,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81060,160,2740.38,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81090,160,2682.46,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81100,160,356.14,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81110,160,1168.87,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81140,160,125.26,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81170,160,59.15,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81180,160,72.18,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81190,160,15.77,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81200,160,15.09,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81210,160,250.48,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81220,160,1174.74,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81230,160,140.21,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81250,160,117.66,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81260,160,77.54,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81270,160,326.99,Loyalty,Retail Store,Cocktail Glasses,Dining & Entertainment
+29/05/2018,81350,160,15.55,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,81900,165,524.12,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,82010,130,1687.44,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,82030,130,14.07,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,82040,130,97.91,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,82040,140,207.69,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,82050,150,42.08,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,82060,170,276.86,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,82070,150,139.77,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,83010,170,187.37,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,83020,130,121.44,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,83020,160,2453.74,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,83020,170,683.07,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,83030,150,465.94,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,83050,170,400.19,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,83060,170,8.42,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,83070,170,221.52,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,84020,130,449.74,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,84020,170,265.60,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,85010,170,160.64,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,85510,170,1023.00,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,86010,110,394.29,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,86010,130,52.80,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,86010,150,693.53,Loyalty,Retail Store,Bedroom Furniture,Furniture
+29/05/2018,86010,160,158.07,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86010,165,49.63,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86010,170,38.63,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86020,110,447.02,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86020,150,52.42,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86030,110,228.45,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86040,110,92.56,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86040,150,25.63,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86050,110,180.85,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86050,150,108.49,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86050,160,224.12,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86090,160,134.97,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86100,110,562.08,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86100,120,26.29,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86100,150,455.39,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86100,160,2.81,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86100,170,509.53,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86130,110,598.95,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86140,110,0.66,Loyalty,Retail Store,Home Fragrances,Decor
+29/05/2018,86150,110,241.66,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86180,130,60.01,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86180,140,253.26,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86200,110,2044.73,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86200,150,48.02,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86200,160,399.68,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86260,120,64.61,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86270,150,278.86,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86280,150,88.28,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86290,150,399.81,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86310,150,706.67,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86330,150,1093.72,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86350,150,195.52,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86360,150,75.75,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86400,170,-2.80,Loyalty,Retail Store,Candleholders,Decor
+29/05/2018,86450,170,1255.87,Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+29/05/2018,86830,170,38.66,Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+30/05/2018,61510,150,-182.91,Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+30/05/2018,61520,150,-516.26,Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+30/05/2018,61530,150,-147.48,Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+30/05/2018,61540,150,-80.98,Loyalty,Retail Store,Bean Bags,Pillows & Cushions
+30/05/2018,61550,150,-359.79,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,61560,150,-209.02,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,61570,150,-264.88,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,62010,150,-1650.79,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,62020,150,-1602.90,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,62030,150,-374.77,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,62099,150,56.99,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,62510,120,-871.84,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,62520,120,-257.17,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,62530,120,-169.33,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,62550,120,-76.68,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,62560,120,-16.80,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,63050,150,-113.80,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,63060,150,-1.47,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,64000,150,373.19,Loyalty,Retail Store,Clocks,Decor
+30/05/2018,64010,150,54.69,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,64020,150,9.59,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65520,110,-42.57,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65540,110,-818.53,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65550,110,-1122.37,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65570,110,-9.90,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65590,110,-88.58,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65600,110,-436.39,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65610,110,-292.18,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65620,110,-297.20,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65650,110,-439.08,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65660,110,-557.57,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65690,110,-46.46,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65700,110,-478.39,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65710,110,-846.28,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65730,110,3.10,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65740,110,-753.16,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65750,110,-943.24,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,65760,110,-5.36,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,66010,130,-103.05,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,66020,130,-824.60,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,66030,130,-11.39,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,66040,130,-65.98,Loyalty,Retail Store,Pillows,Pillows & Cushions
+30/05/2018,66050,130,-77.46,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66070,130,-18.45,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66080,130,-4.95,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66090,130,-57.92,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66100,130,-9.68,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66110,130,-1.02,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66120,130,-15.02,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66130,130,-121.45,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66510,140,-120.08,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66520,140,-43.76,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66530,140,-62.37,Loyalty,Retail Store,Collectibles,Decor
+30/05/2018,66550,140,-517.37,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,61510,150,-256.07,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,61520,150,-722.77,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,61530,150,-206.47,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,61540,150,-113.37,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,61550,150,-503.70,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,61560,150,-292.63,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,61570,150,-370.84,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,62010,150,-2311.10,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,62020,150,-2244.07,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,62030,150,-524.68,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,62099,150,79.79,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,62510,120,-1220.58,Loyalty,Retail Store,Collectibles,Decor
+31/05/2018,62520,120,-360.04,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,62530,120,-237.06,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,62550,120,-107.35,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,62560,120,-23.51,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,63050,150,-159.32,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,63060,150,-2.05,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,64000,150,522.47,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,64010,150,76.57,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,64020,150,13.42,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65520,110,-59.60,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65540,110,-1145.94,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65550,110,-1571.32,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65570,110,-13.86,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65590,110,-124.01,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65600,110,-610.95,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65610,110,-409.04,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65620,110,-416.08,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65650,110,-614.72,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65660,110,-780.60,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65690,110,-65.04,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65700,110,-669.74,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65710,110,-1184.79,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65730,110,4.33,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65740,110,-1054.43,Loyalty,Retail Store,Cookware,Dining & Entertainment
+31/05/2018,65750,110,-1320.53,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,65760,110,-7.51,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66010,130,-144.27,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66020,130,-1154.44,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66030,130,-15.94,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66040,130,-92.38,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66050,130,-108.45,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66070,130,-25.83,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66080,130,-6.93,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66090,130,-81.08,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66100,130,-13.55,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66110,130,-1.43,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66120,130,-21.03,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66130,130,-170.03,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66510,140,-168.11,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66520,140,-61.26,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66530,140,-87.32,Loyalty,Retail Store,Dining Furniture,Furniture
+31/05/2018,66550,140,-724.32,Loyalty,Retail Store,Dining Furniture,Furniture
