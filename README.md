@@ -69,3 +69,23 @@ This will add a new column **Year** as well as a new step into our _Applied Step
 
 Repeat the steps for Quarter, Month, and Day. Keep in mind to select the TranDate before you add a new column.
 
+Once finished, select **Home** in the Ribbon and hit **Close & Load**.
+
+<img src="./PNG/13 Close and Load.png" width="500">
+
+This way, Power Query will refresh our data with the new speps applied and add the four new columns.
+
+<img src="./PNG/14 New Columns added.png" width="500">
+
+Because the Pivot Table is connected to the April 2018 table, we need now to refresh the Pivot Table as well. To do so, go to your Pivot Table, select it, and press **Refresh** in the **PivotTable Analyze** Ribbon menu. Once the refresh has successfully completed, we'll see the four new columns. 
+
+<img src="./PNG/15 Refresh Pivot Table.png" width="500">
+
+Let's now adjust the Pivot Table to show Year and Month in the Columns section instead of days. As we can see, a hierarchy helps for a better overview. Obviously, we can also add Quarter and Day if needed. 
+
+<img src="./PNG/16 Adjusted Pivot Table.png" width="500">
+
+But as we wish to analyze our revenue across multiple months to compare and identify trends, we would now need to connect to the other CSV files. One approach would be to repeat the steps and combine the tables in Power Query or Excel. But as we want to be as efficient as possible, let's leverage the Power of Power Query even more.
+
+## Scenario 2 - Connect to folder and combine multiple CSV files
+
