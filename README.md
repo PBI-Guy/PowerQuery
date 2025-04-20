@@ -89,3 +89,90 @@ But as we wish to analyze our revenue across multiple months to compare and iden
 
 ## Scenario 2 - Connect to folder and combine multiple CSV files
 
+In our existing file, we select **Get Data** from the **Data** menu in the Ribbon, click on **From File** and select **From Folder**. 
+
+<img src="./PNG/17 Connect to Folder.png" width="500">
+
+In the pop up window browse to the **CSV** folder and confirm with **Open**.
+
+<img src="./PNG/18 Select CSV folder.png" width="500">
+
+Now, we're connected to the folder. In the preview screen, we can see all files which are stored in this folder with some meta data like modified date, created date, path, etc. As we're not interested in the meta data but rather in the binaries, we have to extract those and combine it into one big table. Power Qurey helps us to achieve our goal by providing a **Combine** button. If we select it, it would do the magic automatically for us but in this case, we want to do further transformation steps on top so we select **Transform Data**. 
+
+<img src="./PNG/19 Transform Data Folder Connector.png" width="500">
+
+In Power Query, we see now two tables - one called _April 2018_ and the other one _CSV_. Select the **CSV** table and click on the two arrows in the **Content** column. 
+
+<img src="./PNG/20 Combine Binaries in Power Query.png" width="500">
+
+A new window will pop up in which we define our sample CSV. Based on it the schema will be defined (meaning which columns should be loaded). Per defalt, the first file is taken as sample but it can be overwritten at the top. In our case, we can leave it as is. 
+Like before, when we connected to one single CSV file, we have now a preview of the data from the sample file. As the data looks good, we confirm with the **OK** button.
+
+<img src="./PNG/21 Preview before combining Binaries.png" width="500">
+
+After a few seconds, we have one big table containing all CSV data!
+
+<img src="./PNG/22 Binaries combined.png" width="500">
+
+> Power Query created automatically a function which is used to extract the binaries. As of now, we do not need to take care of. 
+
+Let's do some further transformation before we load the data. First, we want to remove the _Source.Name_ column as it's not needed. **Right click** on the column name and select **Remove**.
+
+<img src="./PNG/23 Remove Source.Name column.png" width="500">
+
+Second, we want to rename some columns. **Double click** on _TranDate_ and rename it to **Date**. Please rename columns as follow:
+
+| Original Name | Renamed |
+|--------------|----------|
+| TranDate | Date |
+| Dept | Country |
+| SumofAmount | Revenue |
+| CustomerSegment | Customer Segment |
+| ProductCategory | Product Category |
+
+> All changes will not affect the CSV file and are only applied during the load of the data into Excel.
+
+Once done, confirm by selecting **Close & Load** from the **Home** Ribbon.
+
+<img src="./PNG/24 Close and Load.png" width="500">
+
+A new worksheet with a new table _CSV_ has been loaded. Instead of creating now a new Pivot Table, let's leverage the existing one and just change the data source. For that, we go to our _Sheet2_ in which our Pivot Table is, click into the Pivot Table (e.g. cell A6), select **PivotTable Analyze** in the Ribbon, and click on **Change Data Source**. 
+
+<img src="./PNG/25 Change Data Source in Pivot Table.png" width="500">
+
+Change the Table/Range to **CSV** and confirm with **OK**. 
+
+<img src="./PNG/26 Select CSV as table source.png" width="500">
+
+Lastly, let's add **Product Category** to the _Rows_, **Revenue** to _Values_, and the automatic created field **Months (Date)** to the _Columns_ secion.
+
+<img src="./PNG/27 Pivot Table on CSV files.png" width="500">
+
+Now, we can easily compare the numbers for each month. Let's create a column chart to visualize our result. Select **Insert** in the Ribbon and click on **PivotChart**. 
+
+<img src="./PNG/28 PivotChart.png" width="500">
+
+In the pop up window select **Column**, make sure to select the first one, and confirm with **OK**.
+
+<img src="./PNG/29 PivotChart Column Chart.png" width="500">
+
+Next, right click in the chart and choose **Select Data**.
+
+<img src="./PNG/30 Change Pivot Chart fields.png" width="500">
+
+Switch now Rows and Columns with the button in the middle and confirm with **OK**. 
+
+<img src="./PNG/31 Switch Row and Column in PivotChart.png" width="500">
+
+This way the Month column is on the X-Axis. As the Pivot Chart and Pivot Table are now connected, we can filter our Pivot Table and influence our Chart this way. Let's test it by selecting the filter icon next to _Column Labels_ and filter down to **Decor** and **Furniture**.
+
+<img src="./PNG/32 Set Filter on PivotTable.png" width="500">
+
+If we now change the Columns fields to **Dept** and remove **Product Category**, we see the Table as well as the Chart is influenced. 
+
+<img src="./PNG/33 Change Columns in Pivot Table.png" width="500">
+
+For reporting purpose, it would be easier if we would have names instead of numbers for our departement respectively countries. There are different ways to achieve it. One would be to use Power Query and add an additional column with an IF statement. For example, if the country code is 110, write USA, if 120, write Germany, etc. The issue with this approach is if a new country code appears or changes, we need to adjust our Power Query. Therefore, let's use a better approach and build a data model.
+
+## Scenario 3 - Create a data model
+
