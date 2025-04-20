@@ -273,3 +273,13 @@ Once loaded, create a relationship between the _Date_ and _CSV_ table by selecti
 
 With our new dimension table **Date** and a correct relationship to our fact table **CSV** we can easily add any column to our Pivot Table and Chart. 
 
+## Clean Up
+As we don't need the _April 2018_ table anymore, we can easily delete it. To do so, open **Queries and Connections** through the **Data** Ribbon, right click on **April 2018**, and select **Delete**. 
+
+<img src="./PNG/49 Delete April 2018 table.png" width="500"> 
+
+Confirm by clicking on **Delete** on the pop up window. 
+
+<img src="./PNG/50 Delete confirmation.png" width="500">
+
+Delete the **April 2018** worksheet and **Sheet2** as well as it's not needed anymore. 
