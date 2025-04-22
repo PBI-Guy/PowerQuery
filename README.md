@@ -2,6 +2,16 @@
 
 This repo is about showing the power of Power Query and how to transform your data with it. We will first focus on Excel and in a later stage, add Power BI as well.
 
+## Table of content
+[Secnario Description](#scenario-description)\
+[Problem statement](#problem-statement)\
+[Scenario 1 - Connect to one CSV file](#scenario-1---connect-to-one-csv-file)\
+[Scenario 2 - Connect to folder and combine multiple CSV files](#scenario-2---connect-to-folder-and-combine-multiple-csv-files)\
+[Scenario 3 - Create a data model](#scenario-3---create-a-data-model)\
+[Bonus - Add a Date Table as dimension](#bonus---add-a-date-table-as-dimension)\
+[Clean Up](#clean-up)
+
+
 ## Scenario Description
 
 We're a global sales manager and want to analyze our sales performance across different dimensions like time, product, and many more. From our controlling team we receive a monthly CSV file with the current sales performance. With Power Query, we want to automate as much as possible to avoid manual tasks and be as efficient as possible. 
